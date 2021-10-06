@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Using multiple FTP/SFTP connections</title>
+    <meta name="keywords" content="jobs, parallelization, ftp, sftp, connections" />
+    <meta name="description" content="Notes about using FTP/SFTP connections in multi-jobs operations." />
+    <link media="screen" href="../main.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+
+<a name="multiple_connections"></a>
+
+<figure class = "logo"> <img src = "../logo.png" alt = "" height = "30" width = "30" /> </figure>
+
+<h1>Using multiple FTP/SFTP connections</h1>
+
+When running a download or upload operation in background or using multiple jobs, more than one connection to a remote FTP/SFTP server will be established. Be aware, that some servers, especially public anonymous FTP servers, limits number of concurrent connections that can be established by the given user or IP address. If this happens, some operations may fail with non-obvious errors. If you encounter such issue, you must stay with just one connection for the given FTP/SFTP server by not allowing operations to run in background or using multiple jobs.
+
+<br/><br/>
+
+</body>
+</html>
+

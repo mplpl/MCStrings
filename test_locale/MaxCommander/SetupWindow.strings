@@ -1,0 +1,15 @@
+
+/* Class = "NSTextFieldCell"; title = "MaxCommander is a sandboxed app and it cannot access a local drive unless the user grants him access to it.\n\nTo do that, click the 'Grant access' button, select a folder the app should have access to (selecting 'Macintosh HD' is recommended) and click the 'Grant access to MaxCommander' button.\n\nIf you skip, MaxCommander will still work, but will only have access to small subset of folders."; ObjectID = "EhS-h6-0Yp"; */
+"EhS-h6-0Yp.title" = "MaxCommander is a sandboxed app and it cannot access a local drive unless the user grants him access to it.\n\nTo do that, click the 'Grant access' button, select a folder the app should have access to (selecting 'Macintosh HD' is recommended) and click the 'Grant access to MaxCommander' button.\n\nIf you skip, MaxCommander will still work, but will only have access to small subset of folders.";
+
+/* Class = "NSWindow"; title = "Access Setup"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Access Setup";
+
+/* Class = "NSTextFieldCell"; title = "MaxCommander \nAccess Setup"; ObjectID = "Xde-Um-bCM"; */
+"Xde-Um-bCM.title" = "MaxCommander \nAccess Setup";
+
+/* Class = "NSButtonCell"; title = "Grant access"; ObjectID = "iZj-Pv-1Y2"; */
+"iZj-Pv-1Y2.title" = "Grant access";
+
+/* Class = "NSButtonCell"; title = "Skip"; ObjectID = "zPy-y4-Buy"; */
+"zPy-y4-Buy.title" = "Skip";

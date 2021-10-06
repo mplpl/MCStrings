@@ -1,0 +1,621 @@
+
+/* Class = "NSWindow"; title = "MaxCommander"; ObjectID = "371"; */
+"371.title" = "MaxCommander";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "490"; */
+"490.headerCell.title" = "Name";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "491"; */
+"491.headerCell.title" = "Type";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "492"; */
+"492.headerCell.title" = "Size";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Modified"; ObjectID = "493"; */
+"493.headerCell.title" = "Date Modified";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "494"; */
+"494.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "495"; */
+"495.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "496"; */
+"496.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "497"; */
+"497.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "532"; */
+"532.headerCell.title" = "Name";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "533"; */
+"533.headerCell.title" = "Type";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "534"; */
+"534.headerCell.title" = "Size";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Modified"; ObjectID = "535"; */
+"535.headerCell.title" = "Date Modified";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "536"; */
+"536.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "537"; */
+"537.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "538"; */
+"538.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "539"; */
+"539.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "NameOnly"; ObjectID = "562"; */
+"562.headerCell.title" = "NameOnly";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "563"; */
+"563.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "NameOnly"; ObjectID = "564"; */
+"564.headerCell.title" = "NameOnly";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "565"; */
+"565.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "595"; */
+"595.title" = "OtherViews";
+
+/* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "866"; */
+"866.label" = "Tab";
+
+/* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "879"; */
+"879.label" = "Tab";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "927"; */
+"927.title" = "Box";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "930"; */
+"930.title" = "OtherViews";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "940"; */
+"940.title" = "Box";
+
+/* Class = "NSSegmentedCell"; 954.ibShadowedLabels[0] = "⌘3 Quick Look"; ObjectID = "954"; */
+"954.ibShadowedLabels[0]" = "⌘3 Quick Look";
+
+/* Class = "NSSegmentedCell"; 954.ibShadowedLabels[1] = "⌘4 Text Edit"; ObjectID = "954"; */
+"954.ibShadowedLabels[1]" = "⌘4 Text Edit";
+
+/* Class = "NSSegmentedCell"; 954.ibShadowedLabels[2] = "⌘5 Copy"; ObjectID = "954"; */
+"954.ibShadowedLabels[2]" = "⌘5 Copy";
+
+/* Class = "NSSegmentedCell"; 954.ibShadowedLabels[3] = "⌘6 Move"; ObjectID = "954"; */
+"954.ibShadowedLabels[3]" = "⌘6 Move";
+
+/* Class = "NSSegmentedCell"; 954.ibShadowedLabels[4] = "⌘7 Make Folder"; ObjectID = "954"; */
+"954.ibShadowedLabels[4]" = "⌘7 Make Folder";
+
+/* Class = "NSSegmentedCell"; 954.ibShadowedLabels[5] = "⌘8 Remove"; ObjectID = "954"; */
+"954.ibShadowedLabels[5]" = "⌘8 Remove";
+
+/* Class = "NSSegmentedCell"; 954.ibShadowedLabels[6] = "⌘9 Link"; ObjectID = "954"; */
+"954.ibShadowedLabels[6]" = "⌘9 Link";
+
+/* Class = "NSSegmentedCell"; 954.ibShadowedLabels[7] = "⌥⌘5 Pack"; ObjectID = "954"; */
+"954.ibShadowedLabels[7]" = "⌥⌘5 Pack";
+
+/* Class = "NSSegmentedCell"; 954.ibShadowedLabels[8] = "⌥⌘6 Unpack"; ObjectID = "954"; */
+"954.ibShadowedLabels[8]" = "⌥⌘6 Unpack";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "958"; */
+"958.title" = "Box";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "1366"; */
+"1366.title" = "Box";
+
+/* Class = "NSSearchField"; ibShadowedToolTip = "Enter text to look for in file names."; ObjectID = "1367"; */
+"1367.ibShadowedToolTip" = "Enter text to look for in file names.";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "1382"; */
+"1382.title" = "Box";
+
+/* Class = "NSSearchField"; ibShadowedToolTip = "Enter text to look for in file names."; ObjectID = "1384"; */
+"1384.ibShadowedToolTip" = "Enter text to look for in file names.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Search this folder and all its subfolders."; ObjectID = "1398"; */
+"1398.ibShadowedToolTip" = "Search this folder and all its subfolders.";
+
+/* Class = "NSButtonCell"; title = "This Folder"; ObjectID = "1399"; */
+"1399.title" = "This Folder";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Search local disks of this Mac."; ObjectID = "1400"; */
+"1400.ibShadowedToolTip" = "Search local disks of this Mac.";
+
+/* Class = "NSButtonCell"; title = "This Mac"; ObjectID = "1401"; */
+"1401.title" = "This Mac";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Look for file names that exactly match the provided text. If not set, all filenames containing the given phrase will be returned."; ObjectID = "1417"; */
+"1417.ibShadowedToolTip" = "Look for file names that exactly match the provided text. If not set, all filenames containing the given phrase will be returned.";
+
+/* Class = "NSButtonCell"; title = "Exact Match"; ObjectID = "1418"; */
+"1418.title" = "Exact Match";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Search this folder and all its subfolders."; ObjectID = "1421"; */
+"1421.ibShadowedToolTip" = "Search this folder and all its subfolders.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Search local disks of this Mac."; ObjectID = "1422"; */
+"1422.ibShadowedToolTip" = "Search local disks of this Mac.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Look for file names that exactly match the provided text. If not set, all filenames containing the given phrase will be returned."; ObjectID = "1425"; */
+"1425.ibShadowedToolTip" = "Look for file names that exactly match the provided text. If not set, all filenames containing the given phrase will be returned.";
+
+/* Class = "NSButtonCell"; title = "Exact Match"; ObjectID = "1426"; */
+"1426.title" = "Exact Match";
+
+/* Class = "NSButtonCell"; title = "This Mac"; ObjectID = "1428"; */
+"1428.title" = "This Mac";
+
+/* Class = "NSButtonCell"; title = "This Folder"; ObjectID = "1429"; */
+"1429.title" = "This Folder";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Use find/grep insted of Spotlight."; ObjectID = "1494"; */
+"1494.ibShadowedToolTip" = "Use find/grep insted of Spotlight.";
+
+/* Class = "NSButtonCell"; title = "No Spotlight"; ObjectID = "1495"; */
+"1495.title" = "No Spotlight";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Use find/grep insted of Spotlight."; ObjectID = "1496"; */
+"1496.ibShadowedToolTip" = "Use find/grep insted of Spotlight.";
+
+/* Class = "NSButtonCell"; title = "No Spotlight"; ObjectID = "1497"; */
+"1497.title" = "No Spotlight";
+
+/* Class = "NSSearchField"; ibShadowedToolTip = "Enter text to search for in the contents of the files."; ObjectID = "1502"; */
+"1502.ibShadowedToolTip" = "Enter text to search for in the contents of the files.";
+
+/* Class = "NSTextFieldCell"; title = "File Name"; ObjectID = "1507"; */
+"1507.title" = "File Name";
+
+/* Class = "NSTextFieldCell"; title = "Content"; ObjectID = "1509"; */
+"1509.title" = "Content";
+
+/* Class = "NSSearchField"; ibShadowedToolTip = "Enter text to search for in the contents of the files."; ObjectID = "1515"; */
+"1515.ibShadowedToolTip" = "Enter text to search for in the contents of the files.";
+
+/* Class = "NSTextFieldCell"; title = "File Name"; ObjectID = "1523"; */
+"1523.title" = "File Name";
+
+/* Class = "NSTextFieldCell"; title = "Content"; ObjectID = "1525"; */
+"1525.title" = "Content";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select search scope."; ObjectID = "1526"; */
+"1526.ibShadowedToolTip" = "Select search scope.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1528"; */
+"1528.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Search local disks of this Mac."; ObjectID = "1529"; */
+"1529.ibShadowedToolTip" = "Search local disks of this Mac.";
+
+/* Class = "NSMenuItem"; title = "This Mac"; ObjectID = "1529"; */
+"1529.title" = "This Mac";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Search this folder and all its subfolders."; ObjectID = "1530"; */
+"1530.ibShadowedToolTip" = "Search this folder and all its subfolders.";
+
+/* Class = "NSMenuItem"; title = "This Folder"; ObjectID = "1530"; */
+"1530.title" = "This Folder";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Ignore character case when searching."; ObjectID = "1542"; */
+"1542.ibShadowedToolTip" = "Ignore character case when searching.";
+
+/* Class = "NSButtonCell"; title = "Ignore Case"; ObjectID = "1543"; */
+"1543.title" = "Ignore Case";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Ignore character case when searching."; ObjectID = "1548"; */
+"1548.ibShadowedToolTip" = "Ignore character case when searching.";
+
+/* Class = "NSButtonCell"; title = "Ignore Case"; ObjectID = "1549"; */
+"1549.title" = "Ignore Case";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select search scope."; ObjectID = "1553"; */
+"1553.ibShadowedToolTip" = "Select search scope.";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1555"; */
+"1555.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Search local disks of this Mac."; ObjectID = "1556"; */
+"1556.ibShadowedToolTip" = "Search local disks of this Mac.";
+
+/* Class = "NSMenuItem"; title = "This Mac"; ObjectID = "1556"; */
+"1556.title" = "This Mac";
+
+/* Class = "NSMenuItem"; ibShadowedToolTip = "Search this folder and all its subfolders."; ObjectID = "1557"; */
+"1557.ibShadowedToolTip" = "Search this folder and all its subfolders.";
+
+/* Class = "NSMenuItem"; title = "This Folder"; ObjectID = "1557"; */
+"1557.title" = "This Folder";
+
+/* Class = "NSButtonCell"; title = "Disconnect"; ObjectID = "1580"; */
+"1580.title" = "Disconnect";
+
+/* Class = "NSButtonCell"; title = "Disconnect"; ObjectID = "1589"; */
+"1589.title" = "Disconnect";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "1705"; */
+"1705.title" = "Box";
+
+/* Class = "NSMenu"; title = "Left Tab Menu"; ObjectID = "1784"; */
+"1784.title" = "Left Tab Menu";
+
+/* Class = "NSMenuItem"; title = "Add New Tab"; ObjectID = "1785"; */
+"1785.title" = "Add New Tab";
+
+/* Class = "NSMenuItem"; title = "Remove Current Item"; ObjectID = "1788"; */
+"1788.title" = "Remove Current Item";
+
+/* Class = "NSMenu"; title = "Left Item Menu"; ObjectID = "1849"; */
+"1849.title" = "Left Item Menu";
+
+/* Class = "NSMenu"; title = "Right Item Menu"; ObjectID = "1855"; */
+"1855.title" = "Right Item Menu";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Created"; ObjectID = "2015"; */
+"2015.headerCell.title" = "Date Created";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2016"; */
+"2016.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "Left Header Menu"; ObjectID = "2017"; */
+"2017.title" = "Left Header Menu";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "2019"; */
+"2019.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "2020"; */
+"2020.title" = "Item 3";
+
+/* Class = "NSMenu"; title = "Right Header Menu"; ObjectID = "2021"; */
+"2021.title" = "Right Header Menu";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "2022"; */
+"2022.title" = "Item 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "2023"; */
+"2023.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "2024"; */
+"2024.title" = "Item 3";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "2030"; */
+"2030.title" = "Item";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Created"; ObjectID = "2033"; */
+"2033.headerCell.title" = "Date Created";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2034"; */
+"2034.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Owner"; ObjectID = "2035"; */
+"2035.headerCell.title" = "Owner";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2036"; */
+"2036.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Group"; ObjectID = "2037"; */
+"2037.headerCell.title" = "Group";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2038"; */
+"2038.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Permissions"; ObjectID = "2039"; */
+"2039.headerCell.title" = "Permissions";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2040"; */
+"2040.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Owner ID"; ObjectID = "2041"; */
+"2041.headerCell.title" = "Owner ID";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2042"; */
+"2042.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Group ID"; ObjectID = "2043"; */
+"2043.headerCell.title" = "Group ID";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2044"; */
+"2044.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "2045"; */
+"2045.headerCell.title" = "Kind";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2046"; */
+"2046.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Version"; ObjectID = "2047"; */
+"2047.headerCell.title" = "Version";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2048"; */
+"2048.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Comments"; ObjectID = "2049"; */
+"2049.headerCell.title" = "Comments";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2050"; */
+"2050.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Added"; ObjectID = "2051"; */
+"2051.headerCell.title" = "Date Added";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2052"; */
+"2052.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Last Opened"; ObjectID = "2053"; */
+"2053.headerCell.title" = "Last Opened";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2054"; */
+"2054.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Added"; ObjectID = "2055"; */
+"2055.headerCell.title" = "Date Added";
+
+/* Class = "NSTableColumn"; headerCell.title = "Last Opened"; ObjectID = "2056"; */
+"2056.headerCell.title" = "Last Opened";
+
+/* Class = "NSTableColumn"; headerCell.title = "Version"; ObjectID = "2057"; */
+"2057.headerCell.title" = "Version";
+
+/* Class = "NSTableColumn"; headerCell.title = "Comments"; ObjectID = "2058"; */
+"2058.headerCell.title" = "Comments";
+
+/* Class = "NSTableColumn"; headerCell.title = "Permissions"; ObjectID = "2059"; */
+"2059.headerCell.title" = "Permissions";
+
+/* Class = "NSTableColumn"; headerCell.title = "Owner ID"; ObjectID = "2060"; */
+"2060.headerCell.title" = "Owner ID";
+
+/* Class = "NSTableColumn"; headerCell.title = "Owner"; ObjectID = "2061"; */
+"2061.headerCell.title" = "Owner";
+
+/* Class = "NSTableColumn"; headerCell.title = "Kind"; ObjectID = "2062"; */
+"2062.headerCell.title" = "Kind";
+
+/* Class = "NSTableColumn"; headerCell.title = "Group"; ObjectID = "2063"; */
+"2063.headerCell.title" = "Group";
+
+/* Class = "NSTableColumn"; headerCell.title = "Group ID"; ObjectID = "2064"; */
+"2064.headerCell.title" = "Group ID";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2065"; */
+"2065.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2066"; */
+"2066.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2067"; */
+"2067.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2068"; */
+"2068.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2069"; */
+"2069.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2070"; */
+"2070.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2071"; */
+"2071.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2072"; */
+"2072.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2073"; */
+"2073.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2074"; */
+"2074.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "Right Tab Menu"; ObjectID = "2106"; */
+"2106.title" = "Right Tab Menu";
+
+/* Class = "NSMenuItem"; title = "Remove Current Item"; ObjectID = "2107"; */
+"2107.title" = "Remove Current Item";
+
+/* Class = "NSMenuItem"; title = "Add New Tab"; ObjectID = "2108"; */
+"2108.title" = "Add New Tab";
+
+/* Class = "NSToolbarItem"; label = "Home Dir"; ObjectID = "053-Gw-Gwi"; */
+"053-Gw-Gwi.label" = "Home Dir";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Home Dir"; ObjectID = "053-Gw-Gwi"; */
+"053-Gw-Gwi.paletteLabel" = "Home Dir";
+
+/* Class = "NSToolbarItem"; toolTip = "Go Home"; ObjectID = "053-Gw-Gwi"; */
+"053-Gw-Gwi.toolTip" = "Go Home";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "0wG-c2-45c"; */
+"0wG-c2-45c.title" = "Text Cell";
+
+/* Class = "NSToolbarItem"; label = "Item Info"; ObjectID = "8rm-Y9-tUi"; */
+"8rm-Y9-tUi.label" = "Item Info";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Item Info"; ObjectID = "8rm-Y9-tUi"; */
+"8rm-Y9-tUi.paletteLabel" = "Item Info";
+
+/* Class = "NSToolbarItem"; toolTip = "Show information about selected item"; ObjectID = "8rm-Y9-tUi"; */
+"8rm-Y9-tUi.toolTip" = "Show information about selected item";
+
+/* Class = "NSTableColumn"; headerCell.title = "Compression Method"; ObjectID = "DIQ-wx-xsk"; */
+"DIQ-wx-xsk.headerCell.title" = "Compression Method";
+
+/* Class = "NSToolbarItem"; label = "Refresh"; ObjectID = "EN6-Tv-bo3"; */
+"EN6-Tv-bo3.label" = "Refresh";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Refresh"; ObjectID = "EN6-Tv-bo3"; */
+"EN6-Tv-bo3.paletteLabel" = "Refresh";
+
+/* Class = "NSToolbarItem"; toolTip = "Refresh folders content"; ObjectID = "EN6-Tv-bo3"; */
+"EN6-Tv-bo3.toolTip" = "Refresh folders content";
+
+/* Class = "NSToolbarItem"; label = "Connect to Server"; ObjectID = "HT0-GB-ac7"; */
+"HT0-GB-ac7.label" = "Connect to Server";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Connect to Server"; ObjectID = "HT0-GB-ac7"; */
+"HT0-GB-ac7.paletteLabel" = "Connect to Server";
+
+/* Class = "NSToolbarItem"; toolTip = "Mount network service"; ObjectID = "HT0-GB-ac7"; */
+"HT0-GB-ac7.toolTip" = "Mount network service";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "LVG-FV-K8Q"; */
+"LVG-FV-K8Q.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Nbw-yB-PWF"; */
+"Nbw-yB-PWF.title" = "Text Cell";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "OSD-lH-M5c"; */
+"OSD-lH-M5c.title" = "Box";
+
+/* Class = "NSToolbarItem"; label = "Back"; ObjectID = "OWx-Bx-Kw0"; */
+"OWx-Bx-Kw0.label" = "Back";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Back"; ObjectID = "OWx-Bx-Kw0"; */
+"OWx-Bx-Kw0.paletteLabel" = "Back";
+
+/* Class = "NSToolbarItem"; toolTip = "Show previous folder"; ObjectID = "OWx-Bx-Kw0"; */
+"OWx-Bx-Kw0.toolTip" = "Show previous folder";
+
+/* Class = "NSTextFieldCell"; title = "Operation Completed"; ObjectID = "Tl8-gb-QcP"; */
+"Tl8-gb-QcP.title" = "Operation Completed";
+
+/* Class = "NSToolbarItem"; label = "Operations"; ObjectID = "VAS-BF-aXu"; */
+"VAS-BF-aXu.label" = "Operations";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Operations"; ObjectID = "VAS-BF-aXu"; */
+"VAS-BF-aXu.paletteLabel" = "Operations";
+
+/* Class = "NSToolbarItem"; toolTip = "Show Operation Manager"; ObjectID = "VAS-BF-aXu"; */
+"VAS-BF-aXu.toolTip" = "Show Operation Manager";
+
+/* Class = "NSTableColumn"; headerCell.title = "Compression Ratio"; ObjectID = "Wy5-1e-8Qg"; */
+"Wy5-1e-8Qg.headerCell.title" = "Compression Ratio";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "aFQ-XF-Jrx"; */
+"aFQ-XF-Jrx.title" = "Text Cell";
+
+/* Class = "NSToolbarItem"; label = "Go To Dir"; ObjectID = "bNZ-2L-37O"; */
+"bNZ-2L-37O.label" = "Go To Dir";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Go To Dir"; ObjectID = "bNZ-2L-37O"; */
+"bNZ-2L-37O.paletteLabel" = "Go To Dir";
+
+/* Class = "NSToolbarItem"; toolTip = "Go to given folder"; ObjectID = "bNZ-2L-37O"; */
+"bNZ-2L-37O.toolTip" = "Go to given folder";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size Compressed"; ObjectID = "cf3-CQ-JbU"; */
+"cf3-CQ-JbU.headerCell.title" = "Size Compressed";
+
+/* Class = "NSTableColumn"; headerCell.title = "Link Target"; ObjectID = "cjg-VA-LwP"; */
+"cjg-VA-LwP.headerCell.title" = "Link Target";
+
+/* Class = "NSTextFieldCell"; title = "Operations In Progress"; ObjectID = "dOS-bd-zK3"; */
+"dOS-bd-zK3.title" = "Operations In Progress";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size Compressed"; ObjectID = "dgC-SN-Yt4"; */
+"dgC-SN-Yt4.headerCell.title" = "Size Compressed";
+
+/* Class = "NSToolbarItem"; label = "Bonjour Browser"; ObjectID = "ezM-rm-6Pe"; */
+"ezM-rm-6Pe.label" = "Bonjour Browser";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Bonjour Browser"; ObjectID = "ezM-rm-6Pe"; */
+"ezM-rm-6Pe.paletteLabel" = "Bonjour Browser";
+
+/* Class = "NSToolbarItem"; toolTip = "Show Bonjour Browser"; ObjectID = "ezM-rm-6Pe"; */
+"ezM-rm-6Pe.toolTip" = "Show Bonjour Browser";
+
+/* Class = "NSToolbarItem"; label = "Sync Dir"; ObjectID = "kW6-Bf-rBP"; */
+"kW6-Bf-rBP.label" = "Sync Dir";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Sync Dir"; ObjectID = "kW6-Bf-rBP"; */
+"kW6-Bf-rBP.paletteLabel" = "Sync Dir";
+
+/* Class = "NSToolbarItem"; toolTip = "Display the same folder in the other panel"; ObjectID = "kW6-Bf-rBP"; */
+"kW6-Bf-rBP.toolTip" = "Display the same folder in the other panel";
+
+/* Class = "NSToolbarItem"; label = "Show in Finder"; ObjectID = "lKK-YB-jiq"; */
+"lKK-YB-jiq.label" = "Show in Finder";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Show in Finder"; ObjectID = "lKK-YB-jiq"; */
+"lKK-YB-jiq.paletteLabel" = "Show in Finder";
+
+/* Class = "NSToolbarItem"; toolTip = "Show the currently displayed folder in Finder"; ObjectID = "lKK-YB-jiq"; */
+"lKK-YB-jiq.toolTip" = "Show the currently displayed folder in Finder";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "lhz-b4-a6I"; */
+"lhz-b4-a6I.title" = "Text Cell";
+
+/* Class = "NSToolbarItem"; label = "Root Dir"; ObjectID = "nLs-4t-X4Z"; */
+"nLs-4t-X4Z.label" = "Root Dir";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Root Dir"; ObjectID = "nLs-4t-X4Z"; */
+"nLs-4t-X4Z.paletteLabel" = "Root Dir";
+
+/* Class = "NSToolbarItem"; toolTip = "Go to root folder"; ObjectID = "nLs-4t-X4Z"; */
+"nLs-4t-X4Z.toolTip" = "Go to root folder";
+
+/* Class = "NSTableColumn"; headerCell.title = "Compression Method"; ObjectID = "po3-Ur-ZWP"; */
+"po3-Ur-ZWP.headerCell.title" = "Compression Method";
+
+/* Class = "NSToolbarItem"; label = "Go Up"; ObjectID = "q4Q-im-5N0"; */
+"q4Q-im-5N0.label" = "Go Up";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Go Up"; ObjectID = "q4Q-im-5N0"; */
+"q4Q-im-5N0.paletteLabel" = "Go Up";
+
+/* Class = "NSToolbarItem"; toolTip = "Go to enclosing folder"; ObjectID = "q4Q-im-5N0"; */
+"q4Q-im-5N0.toolTip" = "Go to enclosing folder";
+
+/* Class = "NSToolbarItem"; label = "Forward"; ObjectID = "qC0-OS-LLO"; */
+"qC0-OS-LLO.label" = "Forward";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Forward"; ObjectID = "qC0-OS-LLO"; */
+"qC0-OS-LLO.paletteLabel" = "Forward";
+
+/* Class = "NSToolbarItem"; toolTip = "Show next folder"; ObjectID = "qC0-OS-LLO"; */
+"qC0-OS-LLO.toolTip" = "Show next folder";
+
+/* Class = "NSToolbarItem"; label = "Share"; ObjectID = "qh2-Sy-lvj"; */
+"qh2-Sy-lvj.label" = "Share";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Share"; ObjectID = "qh2-Sy-lvj"; */
+"qh2-Sy-lvj.paletteLabel" = "Share";
+
+/* Class = "NSToolbarItem"; toolTip = "Share items"; ObjectID = "qh2-Sy-lvj"; */
+"qh2-Sy-lvj.toolTip" = "Share items";
+
+/* Class = "NSTableColumn"; headerCell.title = "Link Target"; ObjectID = "r82-MK-VQD"; */
+"r82-MK-VQD.headerCell.title" = "Link Target";
+
+/* Class = "NSTextFieldCell"; title = "Operation Completed"; ObjectID = "wNB-VP-7qX"; */
+"wNB-VP-7qX.title" = "Operation Completed";
+
+/* Class = "NSTableColumn"; headerCell.title = "Compression Ratio"; ObjectID = "wxe-nl-Su2"; */
+"wxe-nl-Su2.headerCell.title" = "Compression Ratio";
+
+/* Class = "NSToolbarItem"; label = "Show in Terminal"; ObjectID = "x7N-G7-lKH"; */
+"x7N-G7-lKH.label" = "Show in Terminal";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Show in Terminal"; ObjectID = "x7N-G7-lKH"; */
+"x7N-G7-lKH.paletteLabel" = "Show in Terminal";
+
+/* Class = "NSToolbarItem"; toolTip = "Open Terminal and go to the currently selected folder"; ObjectID = "x7N-G7-lKH"; */
+"x7N-G7-lKH.toolTip" = "Open Terminal and go to the currently selected folder";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zDe-nx-M5Q"; */
+"zDe-nx-M5Q.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zED-xA-fe4"; */
+"zED-xA-fe4.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "zGN-1c-Hyg"; */
+"zGN-1c-Hyg.title" = "Text Cell";

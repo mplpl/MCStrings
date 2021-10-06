@@ -1,0 +1,47 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Creating links and aliases</title>
+    <meta name="keywords" content="symbolic, links, hard, alias" />
+    <meta name="description" content="Description of various options available for the operation of creating links." />
+    <link media="screen" href="../main.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+
+<a name="links"></a>
+
+<figure class = "logo"> <img src = "../logo.png" alt = "" height = "30" width = "30" /> </figure>
+
+<h1>Creating links and aliases</h1>
+
+Links allows you to have multiple items pointing to the same data (a file content) on a storage device.
+Creating links is not supported in archives or on remote file servers.
+
+<br/><br/>
+
+To create a link, select a single item in the current panel and have the destination for the new link selected in the other panel, then press <key>Command + 9</key>. It will open the Link Dialog where you can specify a name for your new link and select the link type. The following options are supported:
+<br/>
+<br/>
+<ul>
+<li><b>Symbolic Link</b> (default) – standard POSIX symbolic link that can be created for files or folder.<br/></li>
+<li><b>Hard Link</b> – low level link that can only be created for files of the same file system. After creating such like, it will not be distinguishable from the source but they both will use the same data chunk on a storage device (be careful with that!).<br/></li>
+<li><b>macOS Alias</b> – macOS way of linking. It is similar to a symbolic link but is handled on the application level and therefore, some apps may not support it.</li>
+</ul>
+<br/>
+
+You can recognize symbolic links and aliases by looking at the icon – it has an arrow badge added – or by checking the ‘Size’ column – it will contain <LINK> value. To distinguish symbolic links from aliases, check Item Info (press <key>Command + i</key>).
+
+<br/><br/>
+
+Hard links are not distinguishable for other files.
+
+<br/><br/>
+
+<h3>Alternative invocation</h3>
+
+You can also request this operation by pressing a button on the Button Bar or the Touch Bar or selecting an item from the top menu.
+
+<br/><br/>
+</body>
+</html>

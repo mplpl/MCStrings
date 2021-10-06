@@ -1,0 +1,27 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "MaxCommander";
+
+/* Bundle name */
+"CFBundleName" = "MaxCommander";
+
+/* Privacy - Desktop Folder Usage Description */
+"NSDesktopFolderUsageDescription" = "MaxCommander needs this access right to manage files in Desktop folder";
+
+/* Privacy - Documents Folder Usage Description */
+"NSDocumentsFolderUsageDescription" = "MaxCommander needs this access right to manage files in Documents folder";
+
+/* Privacy - Downloads Folder Usage Description */
+"NSDownloadsFolderUsageDescription" = "MaxCommander needs this access right to manage files in Downloads folder";
+
+/* Localized versions of Info.plist keys */
+"NSHumanReadableCopyright" = "Copyright © 2010-2021 Marcin Labenski. \nAll Rights Reserved.";
+
+/* Privacy - Network Volumes Usage Description */
+"NSNetworkVolumesUsageDescription" = "MaxCommander needs this access right to manage files on network volumes";
+
+/* Privacy - Removable Volumes Usage Description */
+"NSRemovableVolumesUsageDescription" = "MaxCommander needs this access right to manage files on removable madia";
+
+"CFBundleHelpBookName" = "MaxCommander Help";
+
+"NSRemindersUsageDescription" = "MaxCommander needs this access to manage files of Reminders app in the Library folder. You may reject this request if you are not going to manage files in Library/Reminders folder.";

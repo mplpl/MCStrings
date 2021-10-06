@@ -1,0 +1,33 @@
+
+/* Class = "NSButtonCell"; title = "Link"; ObjectID = "3ZE-G1-H7F"; */
+"3ZE-G1-H7F.title" = "Link";
+
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "54w-dC-oWn"; */
+"54w-dC-oWn.title" = "Edit";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "AKH-pb-vqr"; */
+"AKH-pb-vqr.title" = "Button";
+
+/* Class = "NSButtonCell"; title = "Move"; ObjectID = "MuW-Y8-Wkz"; */
+"MuW-Y8-Wkz.title" = "Move";
+
+/* Class = "NSButtonCell"; title = "Quick Look"; ObjectID = "PA0-X4-CU9"; */
+"PA0-X4-CU9.title" = "Quick Look";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "Pap-4j-4JJ"; */
+"Pap-4j-4JJ.title" = "Copy";
+
+/* Class = "NSButtonCell"; title = "Make Folder"; ObjectID = "PnT-34-phQ"; */
+"PnT-34-phQ.title" = "Make Folder";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "kaY-Co-80N"; */
+"kaY-Co-80N.title" = "Button";
+
+/* Class = "NSButtonCell"; title = "Unpack"; ObjectID = "lD3-0c-M1y"; */
+"lD3-0c-M1y.title" = "Unpack";
+
+/* Class = "NSButtonCell"; title = "Pack"; ObjectID = "oJu-Vb-1KZ"; */
+"oJu-Vb-1KZ.title" = "Pack";
+
+/* Class = "NSButtonCell"; title = "Remove"; ObjectID = "yOd-4h-AyN"; */
+"yOd-4h-AyN.title" = "Remove";

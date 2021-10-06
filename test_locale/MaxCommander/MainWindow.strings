@@ -1,0 +1,459 @@
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "Bring All to Front";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "Minimize";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Window";
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "MaxCommander"; ObjectID = "56"; */
+"56.title" = "MaxCommander";
+
+/* Class = "NSMenu"; title = "MaxCommander"; ObjectID = "57"; */
+"57.title" = "MaxCommander";
+
+/* Class = "NSMenuItem"; title = "About MaxCommander"; ObjectID = "58"; */
+"58.title" = "About MaxCommander";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
+"103.title" = "Help";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "106"; */
+"106.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "MaxCommander Keyboard Shortcuts"; ObjectID = "111"; */
+"111.title" = "MaxCommander Keyboard Shortcuts";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "Preferences…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Hide MaxCommander"; ObjectID = "134"; */
+"134.title" = "Hide MaxCommander";
+
+/* Class = "NSMenuItem"; title = "Quit MaxCommander"; ObjectID = "136"; */
+"136.title" = "Quit MaxCommander";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Hide Others";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "995"; */
+"995.title" = "File";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "996"; */
+"996.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "1019"; */
+"1019.title" = "Quick Look";
+
+/* Class = "NSMenuItem"; title = "Text Edit"; ObjectID = "1020"; */
+"1020.title" = "Text Edit";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "1021"; */
+"1021.title" = "Copy";
+
+/* Class = "NSMenuItem"; title = "Move"; ObjectID = "1022"; */
+"1022.title" = "Move";
+
+/* Class = "NSMenuItem"; title = "Make Folder"; ObjectID = "1023"; */
+"1023.title" = "Make Folder";
+
+/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "1024"; */
+"1024.title" = "Remove";
+
+/* Class = "NSMenuItem"; title = "Pack"; ObjectID = "1025"; */
+"1025.title" = "Pack";
+
+/* Class = "NSMenuItem"; title = "Unpack"; ObjectID = "1026"; */
+"1026.title" = "Unpack";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "1035"; */
+"1035.title" = "View";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "1036"; */
+"1036.title" = "View";
+
+/* Class = "NSMenuItem"; title = "Show Hidden Items"; ObjectID = "1112"; */
+"1112.title" = "Show Hidden Items";
+
+/* Class = "NSMenuItem"; title = "Show Folders First"; ObjectID = "1118"; */
+"1118.title" = "Show Folders First";
+
+/* Class = "NSMenuItem"; title = "Show Localized Names"; ObjectID = "1119"; */
+"1119.title" = "Show Localized Names";
+
+/* Class = "NSMenuItem"; title = "Settings"; ObjectID = "1257"; */
+"1257.title" = "Settings";
+
+/* Class = "NSMenu"; title = "Settings"; ObjectID = "1258"; */
+"1258.title" = "Settings";
+
+/* Class = "NSMenuItem"; title = "Size Unit Conversion"; ObjectID = "1262"; */
+"1262.title" = "Size Unit Conversion";
+
+/* Class = "NSMenuItem"; title = "1KB = 1000B"; ObjectID = "1264"; */
+"1264.title" = "1KB = 1000B";
+
+/* Class = "NSMenuItem"; title = "1KiB = 1024B"; ObjectID = "1265"; */
+"1265.title" = "1KiB = 1024B";
+
+/* Class = "NSMenuItem"; title = "Log Level"; ObjectID = "1268"; */
+"1268.title" = "Log Level";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "1269"; */
+"1269.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Debug"; ObjectID = "1270"; */
+"1270.title" = "Debug";
+
+/* Class = "NSMenuItem"; title = "Information"; ObjectID = "1271"; */
+"1271.title" = "Information";
+
+/* Class = "NSMenuItem"; title = "Error"; ObjectID = "1272"; */
+"1272.title" = "Error";
+
+/* Class = "NSMenuItem"; title = "Select Text Editor..."; ObjectID = "1288"; */
+"1288.title" = "Select Text Editor...";
+
+/* Class = "NSMenuItem"; title = "Links (Left Panel)"; ObjectID = "1290"; */
+"1290.title" = "Links (Left Panel)";
+
+/* Class = "NSMenuItem"; title = "Links (Right Panel)"; ObjectID = "1292"; */
+"1292.title" = "Links (Right Panel)";
+
+/* Class = "NSMenuItem"; title = "Number of discovered AFP services to show"; ObjectID = "1297"; */
+"1297.title" = "Number of discovered AFP services to show";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "1298"; */
+"1298.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "0"; ObjectID = "1299"; */
+"1299.title" = "0";
+
+/* Class = "NSMenuItem"; title = "10"; ObjectID = "1300"; */
+"1300.title" = "10";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "1301"; */
+"1301.title" = "5";
+
+/* Class = "NSMenuItem"; title = "Number of discovered SMB services to show"; ObjectID = "1305"; */
+"1305.title" = "Number of discovered SMB services to show";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "1306"; */
+"1306.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "10"; ObjectID = "1307"; */
+"1307.title" = "10";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "1308"; */
+"1308.title" = "5";
+
+/* Class = "NSMenuItem"; title = "0"; ObjectID = "1309"; */
+"1309.title" = "0";
+
+/* Class = "NSMenuItem"; title = "Number of discovered FTP services to show"; ObjectID = "1313"; */
+"1313.title" = "Number of discovered FTP services to show";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "1314"; */
+"1314.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "10"; ObjectID = "1315"; */
+"1315.title" = "10";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "1316"; */
+"1316.title" = "5";
+
+/* Class = "NSMenuItem"; title = "0"; ObjectID = "1317"; */
+"1317.title" = "0";
+
+/* Class = "NSMenuItem"; title = "Number of discovered WebDAV services to show"; ObjectID = "1321"; */
+"1321.title" = "Number of discovered WebDAV services to show";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "1322"; */
+"1322.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "10"; ObjectID = "1323"; */
+"1323.title" = "10";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "1324"; */
+"1324.title" = "5";
+
+/* Class = "NSMenuItem"; title = "0"; ObjectID = "1325"; */
+"1325.title" = "0";
+
+/* Class = "NSMenuItem"; title = "Show Full Path in Bookmarks"; ObjectID = "1359"; */
+"1359.title" = "Show Full Path in Bookmarks";
+
+/* Class = "NSMenuItem"; title = "New Text File"; ObjectID = "1457"; */
+"1457.title" = "New Text File";
+
+/* Class = "NSMenuItem"; title = "Select Comparison Tool..."; ObjectID = "1462"; */
+"1462.title" = "Select Comparison Tool...";
+
+/* Class = "NSMenuItem"; title = "Compare by Content"; ObjectID = "1467"; */
+"1467.title" = "Compare by Content";
+
+/* Class = "NSMenuItem"; title = "Number of discovered SFTP services to show"; ObjectID = "1472"; */
+"1472.title" = "Number of discovered SFTP services to show";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "1473"; */
+"1473.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "0"; ObjectID = "1474"; */
+"1474.title" = "0";
+
+/* Class = "NSMenuItem"; title = "10"; ObjectID = "1475"; */
+"1475.title" = "10";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "1476"; */
+"1476.title" = "5";
+
+/* Class = "NSMenuItem"; title = "Compare Folders"; ObjectID = "1491"; */
+"1491.title" = "Compare Folders";
+
+/* Class = "NSMenuItem"; title = "MaxCommander Website"; ObjectID = "1571"; */
+"1571.title" = "MaxCommander Website";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "1593"; */
+"1593.title" = "Edit";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "1594"; */
+"1594.title" = "Edit";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "1595"; */
+"1595.title" = "Undo";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "1596"; */
+"1596.title" = "Redo";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "1598"; */
+"1598.title" = "Cut";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "1599"; */
+"1599.title" = "Copy";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "1600"; */
+"1600.title" = "Paste";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "1603"; */
+"1603.title" = "Select All";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "1609"; */
+"1609.title" = "Speech";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "1610"; */
+"1610.title" = "Speech";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "1611"; */
+"1611.title" = "Start Speaking";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "1612"; */
+"1612.title" = "Stop Speaking";
+
+/* Class = "NSMenuItem"; title = "Show Tip Bar"; ObjectID = "1713"; */
+"1713.title" = "Show Tip Bar";
+
+/* Class = "NSMenuItem"; title = "Link"; ObjectID = "1728"; */
+"1728.title" = "Link";
+
+/* Class = "NSMenuItem"; title = "New Window"; ObjectID = "1731"; */
+"1731.title" = "New Window";
+
+/* Class = "NSMenu"; title = "DockMenu"; ObjectID = "1734"; */
+"1734.title" = "DockMenu";
+
+/* Class = "NSMenuItem"; title = "New MacCommander Window"; ObjectID = "1735"; */
+"1735.title" = "New MacCommander Window";
+
+/* Class = "NSMenuItem"; title = "No conversion (show bytes)"; ObjectID = "1740"; */
+"1740.title" = "No conversion (show bytes)";
+
+/* Class = "NSMenuItem"; title = "Move To Trash by Default"; ObjectID = "1743"; */
+"1743.title" = "Move To Trash by Default";
+
+/* Class = "NSMenuItem"; title = "New Tab"; ObjectID = "1793"; */
+"1793.title" = "New Tab";
+
+/* Class = "NSMenuItem"; title = "Always Show Tab Bar"; ObjectID = "1795"; */
+"1795.title" = "Always Show Tab Bar";
+
+/* Class = "NSMenuItem"; title = "Date and Time Format"; ObjectID = "2083"; */
+"2083.title" = "Date and Time Format";
+
+/* Class = "NSMenu"; title = "Date and Time Format"; ObjectID = "2084"; */
+"2084.title" = "Date and Time Format";
+
+/* Class = "NSMenuItem"; title = "International Format"; ObjectID = "2085"; */
+"2085.title" = "International Format";
+
+/* Class = "NSMenuItem"; title = "System Short Format"; ObjectID = "2086"; */
+"2086.title" = "System Short Format";
+
+/* Class = "NSMenuItem"; title = "System Long Format"; ObjectID = "2087"; */
+"2087.title" = "System Long Format";
+
+/* Class = "NSMenuItem"; title = "System Medium Format"; ObjectID = "2088"; */
+"2088.title" = "System Medium Format";
+
+/* Class = "NSMenuItem"; title = "System Full Format"; ObjectID = "2089"; */
+"2089.title" = "System Full Format";
+
+/* Class = "NSMenuItem"; title = "Long Time Format"; ObjectID = "2102"; */
+"2102.title" = "Long Time Format";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "0Rx-Dg-j49"; */
+"0Rx-Dg-j49.title" = "Show Toolbar";
+
+/* Class = "NSMenuItem"; title = "Show File Name Extension in 'Name' Column"; ObjectID = "1Zh-K6-nFF"; */
+"1Zh-K6-nFF.title" = "Show File Name Extension in 'Name' Column";
+
+/* Class = "NSMenuItem"; title = "Bonjour Browser..."; ObjectID = "2jV-S5-x1j"; */
+"2jV-S5-x1j.title" = "Bonjour Browser...";
+
+/* Class = "NSMenuItem"; title = "Search..."; ObjectID = "3ed-16-ChU"; */
+"3ed-16-ChU.title" = "Search...";
+
+/* Class = "NSMenuItem"; title = "4"; ObjectID = "3mA-p5-T4f"; */
+"3mA-p5-T4f.title" = "4";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "B4E-IY-oxm"; */
+"B4E-IY-oxm.title" = "Rename";
+
+/* Class = "NSMenuItem"; title = "MaxCommander Help"; ObjectID = "CnT-c6-KVP"; */
+"CnT-c6-KVP.title" = "MaxCommander Help";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "EZa-yr-gpE"; */
+"EZa-yr-gpE.title" = "Show in Finder";
+
+/* Class = "NSMenuItem"; title = "Home"; ObjectID = "Ff4-It-nZk"; */
+"Ff4-It-nZk.title" = "Home";
+
+/* Class = "NSMenuItem"; title = "Compare MD5"; ObjectID = "Fnd-Xx-cfq"; */
+"Fnd-Xx-cfq.title" = "Compare MD5";
+
+/* Class = "NSMenu"; title = "Share"; ObjectID = "GfR-wx-Hv7"; */
+"GfR-wx-Hv7.title" = "Share";
+
+/* Class = "NSMenuItem"; title = "Skip when downloading"; ObjectID = "JJi-PZ-9Uj"; */
+"JJi-PZ-9Uj.title" = "Skip when downloading";
+
+/* Class = "NSMenuItem"; title = "Forward"; ObjectID = "K17-b3-zy5"; */
+"K17-b3-zy5.title" = "Forward";
+
+/* Class = "NSMenuItem"; title = "Check SFTP host fingerprint"; ObjectID = "MGW-lf-rXY"; */
+"MGW-lf-rXY.title" = "Check SFTP host fingerprint";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "O3f-LK-StC"; */
+"O3f-LK-StC.title" = "2";
+
+/* Class = "NSMenuItem"; title = "Follow when uploading"; ObjectID = "ONq-8k-QHo"; */
+"ONq-8k-QHo.title" = "Follow when uploading";
+
+/* Class = "NSMenuItem"; title = "8"; ObjectID = "OTO-ga-LVD"; */
+"OTO-ga-LVD.title" = "8";
+
+/* Class = "NSMenuItem"; title = "Enclosing Folder"; ObjectID = "OVJ-Bx-OxC"; */
+"OVJ-Bx-OxC.title" = "Enclosing Folder";
+
+/* Class = "NSMenuItem"; title = "Show Button Bar"; ObjectID = "P74-uL-oNy"; */
+"P74-uL-oNy.title" = "Show Button Bar";
+
+/* Class = "NSMenuItem"; title = "Default number of jobs"; ObjectID = "QJM-Xq-rtp"; */
+"QJM-Xq-rtp.title" = "Default number of jobs";
+
+/* Class = "NSMenuItem"; title = "Follow when downloading"; ObjectID = "Rfw-b8-AQF"; */
+"Rfw-b8-AQF.title" = "Follow when downloading";
+
+/* Class = "NSMenuItem"; title = "Remove URL Bookmarks..."; ObjectID = "Tan-og-GqX"; */
+"Tan-og-GqX.title" = "Remove URL Bookmarks...";
+
+/* Class = "NSMenuItem"; title = "Support for Resuming Downloads"; ObjectID = "V8C-NO-RQ5"; */
+"V8C-NO-RQ5.title" = "Support for Resuming Downloads";
+
+/* Class = "NSMenuItem"; title = "Show Log Folder"; ObjectID = "VMA-LU-gPr"; */
+"VMA-LU-gPr.title" = "Show Log Folder";
+
+/* Class = "NSMenuItem"; title = "Support for Resuming Uploads"; ObjectID = "Vhv-qg-scR"; */
+"Vhv-qg-scR.title" = "Support for Resuming Uploads";
+
+/* Class = "NSMenuItem"; title = "Symbolic Links Handling (FTP/SFTP)"; ObjectID = "Vzp-We-ED7"; */
+"Vzp-We-ED7.title" = "Symbolic Links Handling (FTP/SFTP)";
+
+/* Class = "NSMenuItem"; title = "Connect to Server..."; ObjectID = "YAX-e5-DUN"; */
+"YAX-e5-DUN.title" = "Connect to Server...";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "YXz-jt-Zcw"; */
+"YXz-jt-Zcw.title" = "Item";
+
+/* Class = "NSMenuItem"; title = "Share"; ObjectID = "Yze-Pw-bAG"; */
+"Yze-Pw-bAG.title" = "Share";
+
+/* Class = "NSMenuItem"; title = "Skip when uploading"; ObjectID = "ZGK-R5-jGh"; */
+"ZGK-R5-jGh.title" = "Skip when uploading";
+
+/* Class = "NSMenu"; title = "Default number of jobs"; ObjectID = "ZiB-E0-hq8"; */
+"ZiB-E0-hq8.title" = "Default number of jobs";
+
+/* Class = "NSMenuItem"; title = "Disconnect FTP/SFTP..."; ObjectID = "Zr8-iM-gKJ"; */
+"Zr8-iM-gKJ.title" = "Disconnect FTP/SFTP...";
+
+/* Class = "NSMenuItem"; title = "Go"; ObjectID = "ahe-5V-LLa"; */
+"ahe-5V-LLa.title" = "Go";
+
+/* Class = "NSMenu"; title = "Symbolic Links Handling (FTP/SFTP)"; ObjectID = "dZN-bM-FKF"; */
+"dZN-bM-FKF.title" = "Symbolic Links Handling (FTP/SFTP)";
+
+/* Class = "NSMenuItem"; title = "Show in Terminal"; ObjectID = "e1D-ch-8YT"; */
+"e1D-ch-8YT.title" = "Show in Terminal";
+
+/* Class = "NSMenuItem"; title = "Go to Folder..."; ObjectID = "e3r-UT-Guv"; */
+"e3r-UT-Guv.title" = "Go to Folder...";
+
+/* Class = "NSMenuItem"; title = "Access Setup..."; ObjectID = "euK-QR-8Og"; */
+"euK-QR-8Og.title" = "Access Setup...";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "iJF-Jp-734"; */
+"iJF-Jp-734.title" = "1";
+
+/* Class = "NSMenu"; title = "Go"; ObjectID = "iK4-Mf-TZp"; */
+"iK4-Mf-TZp.title" = "Go";
+
+/* Class = "NSMenuItem"; title = "Back"; ObjectID = "if8-YL-eTV"; */
+"if8-YL-eTV.title" = "Back";
+
+/* Class = "NSMenuItem"; title = "Operation Manager..."; ObjectID = "jhc-6R-QVG"; */
+"jhc-6R-QVG.title" = "Operation Manager...";
+
+/* Class = "NSMenuItem"; title = "Root"; ObjectID = "mMO-fm-dD6"; */
+"mMO-fm-dD6.title" = "Root";
+
+/* Class = "NSMenuItem"; title = "Remove Folder Bookmarks..."; ObjectID = "odd-du-H0P"; */
+"odd-du-H0P.title" = "Remove Folder Bookmarks...";
+
+/* Class = "NSMenuItem"; title = "Check FTPS/FTPES Host Certificate"; ObjectID = "pyk-Ob-qxc"; */
+"pyk-Ob-qxc.title" = "Check FTPS/FTPES Host Certificate";
+
+/* Class = "NSMenuItem"; title = "Eject Volume..."; ObjectID = "t9q-Sh-mfg"; */
+"t9q-Sh-mfg.title" = "Eject Volume...";
+
+/* Class = "NSMenuItem"; title = "16"; ObjectID = "xwD-zF-J5c"; */
+"xwD-zF-J5c.title" = "16";

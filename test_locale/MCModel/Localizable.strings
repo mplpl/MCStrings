@@ -1,0 +1,165 @@
+/* No comment provided by engineer. */
+"%@ and %lu other items" = "%1$@ und %2$lu andere Objekte";
+
+/* No comment provided by engineer. */
+"%@ is not a folder" = "%@ ist kein Ordner";
+
+/* No comment provided by engineer. */
+"Abort" = "Abbrechen";
+
+/* No comment provided by engineer. */
+"Alias" = "Alias";
+
+/* No comment provided by engineer. */
+"Apply to all" = "Für alle";
+
+/* No comment provided by engineer. */
+"Background operation complete" = "Vorgang abgeschlossen";
+
+/* No comment provided by engineer. */
+"Big5 Encodings" = "Big5-Codierungen";
+
+/* No comment provided by engineer. */
+"Block Special File" = "Spezielle Datei blockieren";
+
+/* No comment provided by engineer. */
+"Broken Symbolic Link" = "Unterbrochene symbolische Link";
+
+/* No comment provided by engineer. */
+"Character Special File" = "Zeichenspezialdatei";
+
+/* No comment provided by engineer. */
+"Chinese GB Encodings" = "GB-Codierungen (China)";
+
+/* No comment provided by engineer. */
+"Copy operation complete" = "Kopiervorgang abgeschlossen";
+
+/* No comment provided by engineer. */
+"Destination folder is not writable" = "Der Zielordner ist nicht beschreibbar";
+
+/* No comment provided by engineer. */
+"Download operation complete" = "Download-Vorgang abgeschlossen";
+
+/* No comment provided by engineer. */
+"Error while copying to %@" = "Fehler beim Kopieren nach %@";
+
+/* No comment provided by engineer. */
+"Error while deleting %@" = "Fehler beim Löschen in %@";
+
+/* No comment provided by engineer. */
+"Extended Unix Code" = "Erweiterter Unix-Code (EUC)";
+
+/* No comment provided by engineer. */
+"File with this name already exists. Operation aborted." = "Datei mit diesem Namen existiert bereits. Vorgang abgebrochen.";
+
+/* No comment provided by engineer. */
+"folder" = "Ordner";
+
+/* No comment provided by engineer. */
+"Folder" = "Ordner";
+
+/* No comment provided by engineer. */
+"Folder already exists" = "Ordner existiert bereits";
+
+/* No comment provided by engineer. */
+"ISO Encodings" = "ISO-Codierungen";
+
+/* No comment provided by engineer. */
+"Japanese Industrial Standards" = "Japanische Industriestandards (JIS)";
+
+/* No comment provided by engineer. */
+"KOI (Cyrilic) Encodings" = "KOI-Codierungen Kodowanie KOI (Kyrillische)";
+
+/* No comment provided by engineer. */
+"Mac Encodings" = "Mac-Codierungen";
+
+/* No comment provided by engineer. */
+"Move operation complete" = "Verschiebevorgang abgeschlossen";
+
+/* No comment provided by engineer. */
+"Moving to trash is not supported for this volume." = "Das Verschieben in den Papierkorb wird für dieses Volume nicht unterstützt.";
+
+/* No comment provided by engineer. */
+"No" = "Nein";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Operation canceled by the user" = "Vorgang vom Benutzer abgebrochen";
+
+/* No comment provided by engineer. */
+"Others" = "Andere";
+
+/* No comment provided by engineer. */
+"Pack operation complete" = "Packvorgang abgeschlossen";
+
+/* No comment provided by engineer. */
+"Protocol not supported - %@" = "Protokoll wird nicht unterstützt - %@";
+
+/* No comment provided by engineer. */
+"Regular File" = "Normale Datei";
+
+/* No comment provided by engineer. */
+"Remove immediately instead?" = "Stattdessen sofort löschen?";
+
+/* No comment provided by engineer. */
+"Remove operation complete" = "Löschvorgang abgeschlossen";
+
+/* No comment provided by engineer. */
+"Retry" = "Wiederholen";
+
+/* No comment provided by engineer. */
+"Skip & Continue" = "Überspringen und fortsetzen";
+
+/* No comment provided by engineer. */
+"Socket" = "Socket";
+
+/* No comment provided by engineer. */
+"Symbolic Link" = "Symbolischer Link";
+
+/* No comment provided by engineer. */
+"The item cannot be copied to its own subfolder" = "Das Objekt kann nicht in einen eigenen Unterordner kopiert werden";
+
+/* No comment provided by engineer. */
+"The item cannot be moved to its own subfolder" = "Das Objekt kann nicht in einen eigenen Unterordner verschoben werden";
+
+/* No comment provided by engineer. */
+"Unable to copy %@" = "%@ kann nicht kopiert werden";
+
+/* No comment provided by engineer. */
+"Unable to create %@" = "%@ kann nicht erstellt werden";
+
+/* No comment provided by engineer. */
+"Unable to list %@" = "%@ kann nicht aufgelistet werden";
+
+/* No comment provided by engineer. */
+"Unable to move %@" = "%@ kann nicht verschoben werden";
+
+/* No comment provided by engineer. */
+"Unable to remove %@" = "%@ kann nicht gelöscht werden";
+
+/* No comment provided by engineer. */
+"Unable to unlock %@" = "%@ kann nicht entsperrt werden";
+
+/* No comment provided by engineer. */
+"Unknown" = "Unbekannt";
+
+/* No comment provided by engineer. */
+"Unknown (2)" = "Unbekannt (2)";
+
+/* No comment provided by engineer. */
+"Unpack operation complete" = "Entpackvorgang abgeschlossen";
+
+/* No comment provided by engineer. */
+"Unsupported link type" = "Nicht unterstützter Verbindungstyp";
+
+/* No comment provided by engineer. */
+"Upload operation complete" = "Upload-Vorgang abgeschlossen";
+
+/* No comment provided by engineer. */
+"Windows & DOS Encoding" = "Windows & DOS-Codierung";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+

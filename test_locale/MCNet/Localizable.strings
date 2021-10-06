@@ -1,0 +1,171 @@
+/* No comment provided by engineer. */
+"Apply to all" = "Für alle";
+
+/* No comment provided by engineer. */
+"Authentication failed for user %@\nReason: %@" = "Authentifizierung für Benutzer %1$@ fehlgeschlagen \\nGrund: %2$@";
+
+/* No comment provided by engineer. */
+"Authentication failed. \nReason: This server does not support password authentication. Supported methods: %@." = "Authentifizierung fehlgeschlagen.\\nGrund: Dieser Server unterstützt keine Kennwortauthentifizierung. Unterstützte Methoden: %@.";
+
+/* No comment provided by engineer. */
+"Authentication failed. \nReason: This server does not support publickey authentication. Supported methods: %@." = "Authentifizierung fehlgeschlagen. \\nGrund: Dieser Server unterstützt keine Publickey-Authentifizierung. Unterstützte Methoden: %@.";
+
+/* No comment provided by engineer. */
+"Cannot access given path" = "Kann nicht auf den angegebenen Pfad zugreifen";
+
+/* No comment provided by engineer. */
+"Cannot connect sftp" = "SFTP kann nicht verbunden werden";
+
+/* No comment provided by engineer. */
+"Cannot connect to host %@ on port %d" = "Verbindung zu Server %1$@ auf Port %2$d kann nicht hergestellt werden";
+
+/* No comment provided by engineer. */
+"Cannot connect to server %@ on port %d" = "Verbindung zu Server %1$@ auf Port %2$d kann nicht hergestellt werden";
+
+/* No comment provided by engineer. */
+"Cannot resolve host %@" = "Host %@ kann nicht aufgelöst werden";
+
+/* No comment provided by engineer. */
+"Copy instead?" = "Stattdessen kopieren?";
+
+/* No comment provided by engineer. */
+"Do not ask again in this session" = "In dieser Sitzung nicht mehr fragen";
+
+/* No comment provided by engineer. */
+"Do you want to continue and use the default path?" = "Möchten Sie fortfahren und den Standardordner verwenden?";
+
+/* No comment provided by engineer. */
+"Do you want to continue with making connection to this host?" = "Möchten Sie weiterhin eine Verbindung zu diesem Host herstellen?";
+
+/* No comment provided by engineer. */
+"Do you want to upload it to the server?" = "Möchten Sie es auf den Server hochladen?";
+
+/* No comment provided by engineer. */
+"Error while copying remote item %@" = "Fehler beim Kopieren des Remote-Objekts %@";
+
+/* No comment provided by engineer. */
+"Error while creating folder %@" = "Fehler beim Erstellen des Ordners %@";
+
+/* No comment provided by engineer. */
+"Error while creating remote folder %@" = "Fehler beim Erstellen des Remote-Ordners %@";
+
+/* No comment provided by engineer. */
+"Error while creating temp folder %@ - %@" = "Error beim Erstellen des temporären Ordners %@ - %@";
+
+/* No comment provided by engineer. */
+"Error while downloading %@" = "Fehler beim Herunterladen von %@";
+
+/* No comment provided by engineer. */
+"Error while moving remote item %@" = "Fehler beim Verschieben des Remote-Objekts %@";
+
+/* No comment provided by engineer. */
+"Error while removing %@" = "Fehler beim Löschen von %@";
+
+/* No comment provided by engineer. */
+"Error while removing remote file %@" = "Fehler beim Entfernen der Remote-Datei %@";
+
+/* No comment provided by engineer. */
+"Error while removing remote folder %@" = "Fehler beim Entfernen des Remote-Ordners %@";
+
+/* No comment provided by engineer. */
+"Error while removing remote item %@" = "Fehler beim Entfernen des Remote-Objekts %@";
+
+/* No comment provided by engineer. */
+"Error while renaming remote item %@" = "Fehler beim Umbenennen des Remote-Objekts %@";
+
+/* No comment provided by engineer. */
+"Error while uploading %@" = "Fehler beim Hochladen von %@";
+
+/* No comment provided by engineer. */
+"File %@ opened from this server has been modified locally" = "Die von diesem Server geöffnete Datei %@ wurde lokal geändert";
+
+/* No comment provided by engineer. */
+"File with this name already exists. Operation aborted." = "Datei mit diesem Namen existiert bereits. Vorgang abgebrochen.";
+
+/* No comment provided by engineer. */
+"Fingerprint is: %@" = "Fingerabdruck ist: %@";
+
+/* No comment provided by engineer. */
+"Folder already exists" = "Ordner existiert bereits";
+
+/* No comment provided by engineer. */
+"FTP Broken Symbolic Link" = "FTP-Symbolverbindung unterbrochen";
+
+/* No comment provided by engineer. */
+"FTP File" = "FTP-Datei";
+
+/* No comment provided by engineer. */
+"FTP Folder" = "FTP-Ordner";
+
+/* No comment provided by engineer. */
+"FTP Symbolic Link" = "FTP Symbolischer Link";
+
+/* No comment provided by engineer. */
+"It is IMPORTANT to use 'Browse' button and not type folder path directly in a field - that is the only way to grant this app access to read the file by adding it to the sandbox." = "Es ist WICHTIG, die Schaltfläche \"Durchsuchen\" zu verwenden und keinen Ordnerpfad direkt in ein Feld einzugeben. Nur so kann dieser App Zugriff zum Lesen der Datei gewährt werden, indem sie zur Sandbox hinzugefügt wird.";
+
+/* No comment provided by engineer. */
+"Login denied for user %@" = "Zugang für Benutzer verweigert %@";
+
+/* No comment provided by engineer. */
+"Move operation is not supported with this target" = "Der Verschiebungsvorgang wird von diesem Ziel nicht unterstützt";
+
+/* No comment provided by engineer. */
+"No" = "Nein";
+
+/* No comment provided by engineer. */
+"Operation failed due too unrecognized server message. The last message received from server %@:%d was: %@" = "Der Vorgang ist aufgrund einer nicht erkannten Servernachricht fehlgeschlagen. Die letzte vom Server %1$@:%2$d empfangene Nachricht war: %3$@";
+
+/* No comment provided by engineer. */
+"Operation failed. Message from server: %@" = "Operation fehlgeschlagen. Nachricht vom Server: %@";
+
+/* No comment provided by engineer. */
+"Part of %@ file is already downloaded (%@)." = "Ein Teil der %1$@ ist bereits heruntergeladen (%2$@).";
+
+/* No comment provided by engineer. */
+"Part of %@ file is already uploaded (%@)." = "Ein Teil der %@ ist bereits hochgeladen (%@).";
+
+/* No comment provided by engineer. */
+"Resume" = "Weitermachen";
+
+/* No comment provided by engineer. */
+"Resume download or start it over?" = "Download fortsetzen oder neu starten?";
+
+/* No comment provided by engineer. */
+"Resume upload or start it over?" = "Upload fortsetzen oder neu starten?";
+
+/* No comment provided by engineer. */
+"SFTP Broken Symbolic Link" = "SFTP Broken Symbolic Link";
+
+/* No comment provided by engineer. */
+"SFTP File" = "SFTP-Datei";
+
+/* No comment provided by engineer. */
+"SFTP Folder" = "SFTP-Ordner";
+
+/* No comment provided by engineer. */
+"SFTP Symbolic Link" = "SFTP Symbolischer Link";
+
+/* No comment provided by engineer. */
+"Start over" = "Von Anfang an";
+
+/* No comment provided by engineer. */
+"The connection with the server has been established but accessing the given path failed." = "Die Verbindung zum Server wurde hergestellt, aber der Zugriff auf den angegebenen Pfad ist fehlgeschlagen.";
+
+/* No comment provided by engineer. */
+"The host certificate is not valid." = "Das Host-Zertifikat ist ungültig.";
+
+/* No comment provided by engineer. */
+"The key file that you specified for passwordless authentication is not present or not readable. Please select it again using 'Browse' button." = "Die Schlüsseldatei, die Sie für die kennwortlose Authentifizierung angegeben haben, ist nicht vorhanden oder nicht lesbar. Bitte wählen Sie es erneut mit der Schaltfläche \"Auswählen\".";
+
+/* No comment provided by engineer. */
+"This host is sending a fingerprint that is different than previously used. Do you accept it?" = "Dieser Host sendet einen Fingerabdruck, der sich von dem zuvor verwendeten unterscheidet. Akzeptierst du es?";
+
+/* No comment provided by engineer. */
+"Timeout" = "Auszeit";
+
+/* No comment provided by engineer. */
+"Unknown host fingerprint. Do you accept it?" = "Unbekannter Host-Fingerabdruck. Akzeptierst du es?";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+

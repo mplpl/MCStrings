@@ -1,0 +1,50 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Packing and unpacking</title>
+    <meta name="keywords" content="operation, job, pack, packing, unpack, unpacking, archive, compression" />
+    <meta name="description" content="Description of various options available for packing and unpacking operations." />
+    <link media="screen" href="../main.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+
+<a name="packing_unpacking"></a>
+
+<figure class = "logo"> <img src = "../logo.png" alt = "" height = "30" width = "30" /> </figure>
+
+<h1>Packing and unpacking</h1>
+
+<h3>Unpacking selected files</h3>
+
+Unpacking selected files from an existing archive works in the same way as <a href="copying.html">copying files</a> between folders of a local drive.
+
+<h3>Unpacking entire archives</h3>
+
+You can also select one or more archive files and request the MaxCommander to unpack all of them, by pressing <key>Option + Command + 6</key>. By default, content of these archives will be put directly into the destination folder (which is what you set as the current folder in the target panel), but you can also mark ‘Create folder for each archive’ option to create a folder with name that matches the archive name, for each archive included in the operation, in the destination folder and unpack this archive there. Note that, if such folder already exists in the destination, the override rules like for a regular copy operation will apply.
+
+<br/><br/>
+
+The unpack operation can <a href="running_in_background.html">run in background</a> and can use <a href="multi_jobs.html">multiple jobs</a>.
+
+<h3>Adding files to existing archives</h3>
+
+Packing files to an existing archive is similar to <a href="copying.html">copying files</a> between folders, but you have additional options to set in the File Copy Dialog. This allows you to set a compression level or encrypt newly added file with password (if the given type of archive supports it).
+
+<h3>Packing to new archives</h3>
+
+For creating a new archive, select the destination folder in one panel, then go to the other one, select the items to pack and press <key>Option + Command + 5</key>. This opens the Pack Dialog where you can set attributes of the new archive. In ‘To’ field set the name of the archive without extension and select the archive type from the list (which will also be used to automatically assign the file extension). You can also set the compression level and encrypt the archive with password by selecting options in ‘Options’ (you may need to unfold it). Setting the password is possible at two levels: for files or for entire archive. In the former case, you will be able to browse the archive without the password, but to display or unpack such files you will have to provide the password. In the latter case, the password will be required even for browsing the content of the archive. The encryption or changing compression level is only supported by some arhive types.
+
+<br/><br/>
+
+The pack operation can <a href="running_in_background.html">run in background</a>. If another pack or delete operation is started for the same archive it is queued and will only proceed when on-going one is finished. It is not possible to set multiple jobs when packing but some compressors can take advantage of multi-core CPUs on their own - it happens fully automatic and does not require any configuration.
+
+<h3>Alternative invocation</h3>
+
+
+You can also request these operations by pressing a button on the Button Bar or the Touch Bar, selecting an item from the top menu, using <a href="drag_and_drop.html">drag and drop</a> or using <a href="copy_and_paste.html">copy & paste</a>.
+
+<br/><br/>
+
+</body>
+</html>

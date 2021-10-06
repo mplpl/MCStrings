@@ -1,0 +1,171 @@
+/* No comment provided by engineer. */
+"%@ is not a folder - cannot copy there" = "%@ ist kein Ordner - kann nicht kopiert werden";
+
+/* No comment provided by engineer. */
+"Aborted" = "Vorgang abgebrochen";
+
+/* No comment provided by engineer. */
+"Archive file exists. Do you want to overwrite it?" = "Archivdatei existiert. Möchten Sie sie überschreiben?";
+
+/* No comment provided by engineer. */
+"Archive file exists. Do you want to overwrite or update it?" = "Archivdatei existiert. Möchten Sie sie überschreiben oder aktualisieren?";
+
+/* No comment provided by engineer. */
+"Archive file is no longer available" = "Die Archivdatei ist nicht mehr verfügbar";
+
+/* No comment provided by engineer. */
+"Archive file not currently opened" = "Die Archivdatei ist nicht geöffnet";
+
+/* No comment provided by engineer. */
+"Archive header error" = "Fehler im Archivheader";
+
+/* No comment provided by engineer. */
+"Archive is not available" = "Das Archiv ist nicht verfügbar";
+
+/* No comment provided by engineer. */
+"Archive update error" = "Fehler beim Aktualisieren des Archivs";
+
+/* No comment provided by engineer. */
+"Can not open file as archive" = "Die Datei kann nicht als Archiv geöffnet werden";
+
+/* No comment provided by engineer. */
+"Can't allocate required memory" = "Speicherzuordnungsfehler";
+
+/* No comment provided by engineer. */
+"Can't create output dir" = "Zielordner kann nicht erstellt werden";
+
+/* No comment provided by engineer. */
+"Can't find archive" = "Archivdatei nicht gefunden";
+
+/* No comment provided by engineer. */
+"Can't initialize operation" = "Der Betrieb konnte nicht gestartet werden";
+
+/* No comment provided by engineer. */
+"Can't load codecs" = "Codecs können nicht geladen werden";
+
+/* No comment provided by engineer. */
+"Cancel" = "Abbrechen";
+
+/* No comment provided by engineer. */
+"Cannot append to compressed tar" = "Kann nicht an das komprimierte 'tar'-Archiv angehängt werden";
+
+/* No comment provided by engineer. */
+"Cannot open archive file" = "Die Archivdatei kann nicht geöffnet werden";
+
+/* No comment provided by engineer. */
+"Cannot open archive file - %@" = "Die Archivdatei kann nicht geöffnet werden - %@";
+
+/* No comment provided by engineer. */
+"Cannot open file %@" = "Datei %@ kann nicht geöffnet werden";
+
+/* No comment provided by engineer. */
+"Cannot pack %@" = "Kann %@ nicht packen";
+
+/* No comment provided by engineer. */
+"Cannot write the archive - code %d" = "Kann nicht in das Archiv schreiben - Code %d";
+
+/* No comment provided by engineer. */
+"Continue?" = "Fortsetzen?";
+
+/* No comment provided by engineer. */
+"Could not seek to archive end" = "Das Ende des Archivs kann nicht erreicht werden";
+
+/* No comment provided by engineer. */
+"CRC error" = "CRC-Fehler";
+
+/* No comment provided by engineer. */
+"CRC error in encrypted file. Wrong password?" = "CRC-Fehler - falsches Passwort?";
+
+/* No comment provided by engineer. */
+"Data after end of file" = "Daten nach Dateiende";
+
+/* No comment provided by engineer. */
+"Data error" = "Datenfehler";
+
+/* No comment provided by engineer. */
+"Data error in encrypted file. Wrong password?" = "Datenfehler - falsches Passwort?";
+
+/* No comment provided by engineer. */
+"Destination folder is not writable" = "Der Zielordner ist nicht beschreibbar";
+
+/* No comment provided by engineer. */
+"Do not ask again in this archive" = "Fragen Sie nicht wieder für dieses Archiv";
+
+/* No comment provided by engineer. */
+"Do you want to update it into the archive?" = "Möchten Sie es im Archiv speichern?";
+
+/* No comment provided by engineer. */
+"Error" = "Error";
+
+/* No comment provided by engineer. */
+"Error %d" = "Error %d";
+
+/* No comment provided by engineer. */
+"Error %d while extracting a file from the archive" = "Fehler %d beim Extrahieren einer Datei aus dem Archiv";
+
+/* No comment provided by engineer. */
+"Error %d while reading from archive" = "Fehler %d beim Lesen der Archivdatei";
+
+/* No comment provided by engineer. */
+"File %@ opened from this archive has been modified locally" = "Die aus diesem Archiv geöffnete Datei %@ hat sich geändert";
+
+/* No comment provided by engineer. */
+"File in Archive" = "Datei im Archiv";
+
+/* No comment provided by engineer. */
+"Folder in Archive" = "Archivverzeichnis";
+
+/* No comment provided by engineer. */
+"Invalid operation arguments" = "Schlechte Betriebsparameter";
+
+/* No comment provided by engineer. */
+"No" = "Nein";
+
+/* No comment provided by engineer. */
+"Not a folder - nothing to list here" = "Dies ist kein Ordner - kann nicht aufgelistet werden";
+
+/* No comment provided by engineer. */
+"Not archive" = "Die Datei ist kein Archiv";
+
+/* No comment provided by engineer. */
+"Not implemented" = "Funktion nicht implementiert";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Other error" = "Ein weiterer Fehler";
+
+/* No comment provided by engineer. */
+"Overwrite" = "Überschreiben";
+
+/* No comment provided by engineer. */
+"Requested item is not in this archive" = "Das angeforderte Objekt befindet sich nicht in diesem Archiv";
+
+/* No comment provided by engineer. */
+"Symbolic Link in Archive" = "Symbolischer Link im Archiv";
+
+/* No comment provided by engineer. */
+"This archive cannot be modified because it contains items with names prefixed with ./" = "Dieses Archiv kann nicht geändert werden, da es Elemente mit Namen enthält, denen ./ vorangestellt ist.";
+
+/* No comment provided by engineer. */
+"This file type is not support on target file system" = "Dieser Dateityp wird im Zieldateisystem nicht unterstützt";
+
+/* No comment provided by engineer. */
+"Unsuported compression method" = "Nicht unterstützte Komprimierungsmethode";
+
+/* No comment provided by engineer. */
+"Update" = "Aktualisieren";
+
+/* No comment provided by engineer. */
+"Wrong folder requested from archive" = "Falscher Ordner vom Archiv angefordert";
+
+/* No comment provided by engineer. */
+"Wrong password" = "Falsches Passwort";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+
+/* No comment provided by engineer. */
+"You are about to set password for the whole archive and you already have some files encrypted. If the password for the archive does not match the one used to encrypt files you will not be able to extract them." = "Sie legen gerade das Kennwort für das gesamte Archiv fest und haben bereits einige Dateien verschlüsselt. Wenn das Kennwort für das Archiv nicht mit dem zum Verschlüsseln von Dateien verwendeten übereinstimmt, können Sie diese nicht entpacken.";
+
