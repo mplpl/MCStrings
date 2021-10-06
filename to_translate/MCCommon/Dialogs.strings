@@ -1,0 +1,492 @@
+
+/* Class = "NSWindow"; title = "Create New Folder"; ObjectID = "1"; */
+"1.title" = "Create New Folder";
+
+/* Class = "NSTextFieldCell"; title = "Enter new folder name"; ObjectID = "4"; */
+"4.title" = "Enter new folder name";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "8"; */
+"8.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "10"; */
+"10.title" = "Cancel";
+
+/* Class = "NSWindow"; title = "Progress"; ObjectID = "18"; */
+"18.title" = "Progress";
+
+/* Class = "NSTextFieldCell"; title = "From:"; ObjectID = "22"; */
+"22.title" = "From:";
+
+/* Class = "NSTextFieldCell"; title = "To:"; ObjectID = "24"; */
+"24.title" = "To:";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "28"; */
+"28.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "30"; */
+"30.title" = "Cancel";
+
+/* Class = "NSWindow"; title = "Overwrite"; ObjectID = "37"; */
+"37.title" = "Overwrite";
+
+/* Class = "NSTextFieldCell"; title = "Should existing file be overwritten?"; ObjectID = "40"; */
+"40.title" = "Should existing file be overwritten?";
+
+/* Class = "NSButtonCell"; title = "Yes"; ObjectID = "44"; */
+"44.title" = "Yes";
+
+/* Class = "NSButtonCell"; title = "Yes to ALL"; ObjectID = "46"; */
+"46.title" = "Yes to ALL";
+
+/* Class = "NSButtonCell"; title = "No"; ObjectID = "48"; */
+"48.title" = "No";
+
+/* Class = "NSButtonCell"; title = "No to ALL"; ObjectID = "50"; */
+"50.title" = "No to ALL";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "52"; */
+"52.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "68"; */
+"68.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "71"; */
+"71.title" = "Label";
+
+/* Class = "NSWindow"; title = "Copy"; ObjectID = "77"; */
+"77.title" = "Copy";
+
+/* Class = "NSTextFieldCell"; title = "You are about to copy the following item:"; ObjectID = "80"; */
+"80.title" = "You are about to copy the following item:";
+
+/* Class = "NSTextFieldCell"; title = "To"; ObjectID = "88"; */
+"88.title" = "To";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "93"; */
+"93.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "94"; */
+"94.title" = "OK";
+
+/* Class = "NSWindow"; title = "Delete"; ObjectID = "104"; */
+"104.title" = "Delete";
+
+/* Class = "NSTextFieldCell"; title = "You are about to delete the following items:"; ObjectID = "107"; */
+"107.title" = "You are about to delete the following items:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "114"; */
+"114.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "115"; */
+"115.title" = "OK";
+
+/* Class = "NSWindow"; title = "Pack"; ObjectID = "150"; */
+"150.title" = "Pack";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "158"; */
+"158.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "159"; */
+"159.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "To"; ObjectID = "161"; */
+"161.title" = "To";
+
+/* Class = "NSTextFieldCell"; title = "You are about to pack the following item(s)"; ObjectID = "165"; */
+"165.title" = "You are about to pack the following item(s)";
+
+/* Class = "NSComboBoxCell"; title = ".zip"; ObjectID = "171"; */
+"171.title" = ".zip";
+
+/* Class = "NSComboBoxCell"; 171.ibShadowedObjectValues[0] = ".tar"; ObjectID = "171"; */
+"171.ibShadowedObjectValues[0]" = ".tar";
+
+/* Class = "NSComboBoxCell"; 171.ibShadowedObjectValues[1] = ".zip"; ObjectID = "171"; */
+"171.ibShadowedObjectValues[1]" = ".zip";
+
+/* Class = "NSComboBoxCell"; 171.ibShadowedObjectValues[2] = ".jar"; ObjectID = "171"; */
+"171.ibShadowedObjectValues[2]" = ".jar";
+
+/* Class = "NSComboBoxCell"; 171.ibShadowedObjectValues[3] = ".rar"; ObjectID = "171"; */
+"171.ibShadowedObjectValues[3]" = ".rar";
+
+/* Class = "NSComboBoxCell"; 171.ibShadowedObjectValues[4] = ".7z"; ObjectID = "171"; */
+"171.ibShadowedObjectValues[4]" = ".7z";
+
+/* Class = "NSWindow"; title = "Unlock"; ObjectID = "183"; */
+"183.title" = "Unlock";
+
+/* Class = "NSButtonCell"; title = "Leave locked and cancel"; ObjectID = "189"; */
+"189.title" = "Leave locked and cancel";
+
+/* Class = "NSButtonCell"; title = "Unlock and continue"; ObjectID = "190"; */
+"190.title" = "Unlock and continue";
+
+/* Class = "NSTextFieldCell"; title = "The following source item(s) are locked. They must be unlocked to move or delete files."; ObjectID = "194"; */
+"194.title" = "The following source item(s) are locked. They must be unlocked to move or delete files.";
+
+/* Class = "NSButtonCell"; title = "Continue in Background"; ObjectID = "534"; */
+"534.title" = "Continue in Background";
+
+/* Class = "NSWindow"; title = "Unlock Destination Folder"; ObjectID = "566"; */
+"566.title" = "Unlock Destination Folder";
+
+/* Class = "NSTextFieldCell"; title = "Destination folder is locked. It must be unlocked to copy files."; ObjectID = "569"; */
+"569.title" = "Destination folder is locked. It must be unlocked to copy files.";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "573"; */
+"573.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "581"; */
+"581.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Skip to ALL"; ObjectID = "582"; */
+"582.title" = "Skip to ALL";
+
+/* Class = "NSButtonCell"; title = "Skip"; ObjectID = "583"; */
+"583.title" = "Skip";
+
+/* Class = "NSButtonCell"; title = "Unlock to ALL"; ObjectID = "584"; */
+"584.title" = "Unlock to ALL";
+
+/* Class = "NSButtonCell"; title = "Unlock"; ObjectID = "591"; */
+"591.title" = "Unlock";
+
+/* Class = "NSWindow"; title = "Go To"; ObjectID = "655"; */
+"655.title" = "Go To";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "661"; */
+"661.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "662"; */
+"662.title" = "OK";
+
+/* Class = "NSTextFieldCell"; title = "Go to folder"; ObjectID = "664"; */
+"664.title" = "Go to folder";
+
+/* Class = "NSWindow"; title = "Selection"; ObjectID = "839"; */
+"839.title" = "Selection";
+
+/* Class = "NSTextFieldCell"; title = "Enter wildcard to match file names"; ObjectID = "842"; */
+"842.title" = "Enter wildcard to match file names";
+
+/* Class = "NSTextFieldCell"; title = "*"; ObjectID = "844"; */
+"844.title" = "*";
+
+/* Class = "NSTextFieldCell"; title = "? any single character"; ObjectID = "846"; */
+"846.title" = "? any single character";
+
+/* Class = "NSTextFieldCell"; title = "* any stream of characters"; ObjectID = "848"; */
+"848.title" = "* any stream of characters";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "850"; */
+"850.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "852"; */
+"852.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Ignore case"; ObjectID = "862"; */
+"862.title" = "Ignore case";
+
+/* Class = "NSButtonCell"; title = "Ignore file extension/type"; ObjectID = "864"; */
+"864.title" = "Ignore file extension/type";
+
+/* Class = "NSWindow"; title = "Login"; ObjectID = "924"; */
+"924.title" = "Login";
+
+/* Class = "NSTextFieldCell"; title = "Enter your name and password for the server."; ObjectID = "927"; */
+"927.title" = "Enter your name and password for the server.";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "929"; */
+"929.title" = "Name:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "931"; */
+"931.title" = "Password:";
+
+/* Class = "NSButtonCell"; title = "Remember this password in my keychain"; ObjectID = "937"; */
+"937.title" = "Remember this password in my keychain";
+
+/* Class = "NSButtonCell"; title = "Connect"; ObjectID = "939"; */
+"939.title" = "Connect";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "941"; */
+"941.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "Operation Title"; ObjectID = "1001"; */
+"1001.title" = "Operation Title";
+
+/* Class = "NSWindow"; title = "Password"; ObjectID = "1007"; */
+"1007.title" = "Password";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "1014"; */
+"1014.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1016"; */
+"1016.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "Options"; ObjectID = "1025"; */
+"1025.title" = "Options";
+
+/* Class = "NSTextFieldCell"; title = "Compression Level"; ObjectID = "1029"; */
+"1029.title" = "Compression Level";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Enter password here"; ObjectID = "1033"; */
+"1033.placeholderString" = "Enter password here";
+
+/* Class = "NSButtonCell"; title = "Encrypt entire archive"; ObjectID = "1035"; */
+"1035.title" = "Encrypt entire archive";
+
+/* Class = "NSButtonCell"; title = "Encrypt files"; ObjectID = "1039"; */
+"1039.title" = "Encrypt files";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "1041"; */
+"1041.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "1069"; */
+"1069.title" = "0";
+
+/* Class = "NSButtonCell"; title = "Encrypt files"; ObjectID = "1070"; */
+"1070.title" = "Encrypt files";
+
+/* Class = "NSButtonCell"; title = "Encrypt entire archive"; ObjectID = "1071"; */
+"1071.title" = "Encrypt entire archive";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Enter password here"; ObjectID = "1072"; */
+"1072.placeholderString" = "Enter password here";
+
+/* Class = "NSTextFieldCell"; title = "Compression Level"; ObjectID = "1073"; */
+"1073.title" = "Compression Level";
+
+/* Class = "NSTextFieldCell"; title = "Options"; ObjectID = "1095"; */
+"1095.title" = "Options";
+
+/* Class = "NSTextFieldCell"; title = "NOTE: extension will be added automatically"; ObjectID = "1120"; */
+"1120.title" = "NOTE: extension will be added automatically";
+
+/* Class = "NSWindow"; title = "Link"; ObjectID = "1121"; */
+"1121.title" = "Link";
+
+/* Class = "NSComboBoxCell"; 1124.ibShadowedObjectValues[0] = "Symbolic Link"; ObjectID = "1124"; */
+"1124.ibShadowedObjectValues[0]" = "Symbolic Link";
+
+/* Class = "NSComboBoxCell"; 1124.ibShadowedObjectValues[1] = "Hard Link"; ObjectID = "1124"; */
+"1124.ibShadowedObjectValues[1]" = "Hard Link";
+
+/* Class = "NSComboBoxCell"; 1124.ibShadowedObjectValues[2] = "macOS Alias"; ObjectID = "1124"; */
+"1124.ibShadowedObjectValues[2]" = "macOS Alias";
+
+/* Class = "NSTextFieldCell"; title = "You are about to create a link from"; ObjectID = "1126"; */
+"1126.title" = "You are about to create a link from";
+
+/* Class = "NSTextFieldCell"; title = "Link type"; ObjectID = "1136"; */
+"1136.title" = "Link type";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "1138"; */
+"1138.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1140"; */
+"1140.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "To"; ObjectID = "1142"; */
+"1142.title" = "To";
+
+/* Class = "NSWindow"; title = "Rename"; ObjectID = "1156"; */
+"1156.title" = "Rename";
+
+/* Class = "NSTextFieldCell"; title = "You are about to rename the following item:"; ObjectID = "1161"; */
+"1161.title" = "You are about to rename the following item:";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "1165"; */
+"1165.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "To:"; ObjectID = "1167"; */
+"1167.title" = "To:";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "1169"; */
+"1169.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "1171"; */
+"1171.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1173"; */
+"1173.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Move to trash"; ObjectID = "1204"; */
+"1204.title" = "Move to trash";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "01u-KS-3qc"; */
+"01u-KS-3qc.title" = "Browse";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "1Cu-8O-QGJ"; */
+"1Cu-8O-QGJ.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Compression Method"; ObjectID = "4FT-76-HZ6"; */
+"4FT-76-HZ6.title" = "Compression Method";
+
+/* Class = "NSButtonCell"; title = "Create folder for each archive"; ObjectID = "4oQ-xv-CGa"; */
+"4oQ-xv-CGa.title" = "Create folder for each archive";
+
+/* Class = "NSTextFieldCell"; title = "with:"; ObjectID = "6CT-P7-sJP"; */
+"6CT-P7-sJP.title" = "with:";
+
+/* Class = "NSMenuItem"; title = "gzip"; ObjectID = "6G3-dc-3u0"; */
+"6G3-dc-3u0.title" = "gzip";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "7Ip-Rz-IfG"; */
+"7Ip-Rz-IfG.title" = "Name";
+
+/* Class = "NSButtonCell"; title = "password"; ObjectID = "8WH-W3-XhH"; */
+"8WH-W3-XhH.title" = "password";
+
+/* Class = "NSTextFieldCell"; title = "Modified"; ObjectID = "AfD-5x-lWj"; */
+"AfD-5x-lWj.title" = "Modified";
+
+/* Class = "NSTextFieldCell"; title = "Enter your name and password or password-less login key for the server."; ObjectID = "C8x-ID-me5"; */
+"C8x-ID-me5.title" = "Enter your name and password or password-less login key for the server.";
+
+/* Class = "NSTextFieldCell"; title = "Number of jobs"; ObjectID = "GgV-KW-RUC"; */
+"GgV-KW-RUC.title" = "Number of jobs";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "HTW-qz-C6Q"; */
+"HTW-qz-C6Q.title" = "Password";
+
+/* Class = "NSComboBoxCell"; title = "1"; ObjectID = "IWs-FG-sWW"; */
+"IWs-FG-sWW.title" = "1";
+
+/* Class = "NSComboBoxCell"; IWs-FG-sWW.ibShadowedObjectValues[0] = "1"; ObjectID = "IWs-FG-sWW"; */
+"IWs-FG-sWW.ibShadowedObjectValues[0]" = "1";
+
+/* Class = "NSComboBoxCell"; IWs-FG-sWW.ibShadowedObjectValues[1] = "2"; ObjectID = "IWs-FG-sWW"; */
+"IWs-FG-sWW.ibShadowedObjectValues[1]" = "2";
+
+/* Class = "NSComboBoxCell"; IWs-FG-sWW.ibShadowedObjectValues[2] = "4"; ObjectID = "IWs-FG-sWW"; */
+"IWs-FG-sWW.ibShadowedObjectValues[2]" = "4";
+
+/* Class = "NSComboBoxCell"; IWs-FG-sWW.ibShadowedObjectValues[3] = "8"; ObjectID = "IWs-FG-sWW"; */
+"IWs-FG-sWW.ibShadowedObjectValues[3]" = "8";
+
+/* Class = "NSComboBoxCell"; IWs-FG-sWW.ibShadowedObjectValues[4] = "16"; ObjectID = "IWs-FG-sWW"; */
+"IWs-FG-sWW.ibShadowedObjectValues[4]" = "16";
+
+/* Class = "NSButtonCell"; title = "Connect"; ObjectID = "J0d-bm-EAv"; */
+"J0d-bm-EAv.title" = "Connect";
+
+/* Class = "NSButtonCell"; title = "Anonymous Login"; ObjectID = "JSL-gb-uHV"; */
+"JSL-gb-uHV.title" = "Anonymous Login";
+
+/* Class = "NSButtonCell"; title = "Move to archive"; ObjectID = "L1B-jX-RSc"; */
+"L1B-jX-RSc.title" = "Move to archive";
+
+/* Class = "NSMenuItem"; title = "2"; ObjectID = "Ljx-nc-JCr"; */
+"Ljx-nc-JCr.title" = "2";
+
+/* Class = "NSTextFieldCell"; title = "Private Key Path"; ObjectID = "Lt6-ok-NIY"; */
+"Lt6-ok-NIY.title" = "Private Key Path";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "QXE-TQ-3aX"; */
+"QXE-TQ-3aX.title" = "Size";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Expand"; ObjectID = "Rgi-CQ-WrU"; */
+"Rgi-CQ-WrU.ibShadowedToolTip" = "Expand";
+
+/* Class = "NSMenuItem"; title = "3"; ObjectID = "TB2-Lr-Nge"; */
+"TB2-Lr-Nge.title" = "3";
+
+/* Class = "NSWindow"; title = "Login"; ObjectID = "VtQ-ia-sf5"; */
+"VtQ-ia-sf5.title" = "Login";
+
+/* Class = "NSTextFieldCell"; title = "Nothing to set"; ObjectID = "WK2-6f-yIh"; */
+"WK2-6f-yIh.title" = "Nothing to set";
+
+/* Class = "NSTextFieldCell"; title = "Show Jobs"; ObjectID = "WiJ-12-hpa"; */
+"WiJ-12-hpa.title" = "Show Jobs";
+
+/* Class = "NSMenuItem"; title = "none"; ObjectID = "Xxn-rh-Ic1"; */
+"Xxn-rh-Ic1.title" = "none";
+
+/* Class = "NSTextFieldCell"; title = "Modified"; ObjectID = "YAs-TO-RZg"; */
+"YAs-TO-RZg.title" = "Modified";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "cgR-u7-peN"; */
+"cgR-u7-peN.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "key"; ObjectID = "cho-LG-LzW"; */
+"cho-LG-LzW.title" = "key";
+
+/* Class = "NSComboBoxCell"; title = "1"; ObjectID = "d5c-9F-u3Y"; */
+"d5c-9F-u3Y.title" = "1";
+
+/* Class = "NSComboBoxCell"; d5c-9F-u3Y.ibShadowedObjectValues[0] = "1"; ObjectID = "d5c-9F-u3Y"; */
+"d5c-9F-u3Y.ibShadowedObjectValues[0]" = "1";
+
+/* Class = "NSComboBoxCell"; d5c-9F-u3Y.ibShadowedObjectValues[1] = "2"; ObjectID = "d5c-9F-u3Y"; */
+"d5c-9F-u3Y.ibShadowedObjectValues[1]" = "2";
+
+/* Class = "NSComboBoxCell"; d5c-9F-u3Y.ibShadowedObjectValues[2] = "4"; ObjectID = "d5c-9F-u3Y"; */
+"d5c-9F-u3Y.ibShadowedObjectValues[2]" = "4";
+
+/* Class = "NSComboBoxCell"; d5c-9F-u3Y.ibShadowedObjectValues[3] = "8"; ObjectID = "d5c-9F-u3Y"; */
+"d5c-9F-u3Y.ibShadowedObjectValues[3]" = "8";
+
+/* Class = "NSComboBoxCell"; d5c-9F-u3Y.ibShadowedObjectValues[4] = "16"; ObjectID = "d5c-9F-u3Y"; */
+"d5c-9F-u3Y.ibShadowedObjectValues[4]" = "16";
+
+/* Class = "NSTextFieldCell"; title = "Authentication"; ObjectID = "di7-RF-ujD"; */
+"di7-RF-ujD.title" = "Authentication";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Continue in Background"; ObjectID = "jX9-6M-J3e"; */
+"jX9-6M-J3e.ibShadowedToolTip" = "Continue in Background";
+
+/* Class = "NSButtonCell"; title = "Joliet"; ObjectID = "lED-r4-OTb"; */
+"lED-r4-OTb.title" = "Joliet";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Cancel"; ObjectID = "lug-Am-Pe2"; */
+"lug-Am-Pe2.ibShadowedToolTip" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Remember data in my keychain"; ObjectID = "mML-2a-tUR"; */
+"mML-2a-tUR.title" = "Remember data in my keychain";
+
+/* Class = "NSTextFieldCell"; title = "Password (optional)"; ObjectID = "npr-au-S9b"; */
+"npr-au-S9b.title" = "Password (optional)";
+
+/* Class = "NSButtonCell"; title = "Overwrite older without asking"; ObjectID = "nsg-XS-DkW"; */
+"nsg-XS-DkW.title" = "Overwrite older without asking";
+
+/* Class = "NSButtonCell"; title = "zisofs compression"; ObjectID = "oAo-Sg-ht2"; */
+"oAo-Sg-ht2.title" = "zisofs compression";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "oB2-qs-YPd"; */
+"oB2-qs-YPd.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Number of jobs"; ObjectID = "oXy-qp-Udp"; */
+"oXy-qp-Udp.title" = "Number of jobs";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "ouG-rf-d8O"; */
+"ouG-rf-d8O.title" = "Cancel";
+
+/* Class = "NSMenuItem"; title = "4"; ObjectID = "ow7-cY-PVX"; */
+"ow7-cY-PVX.title" = "4";
+
+/* Class = "NSMenuItem"; title = "1"; ObjectID = "rnC-5W-x06"; */
+"rnC-5W-x06.title" = "1";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "ruy-yg-wOD"; */
+"ruy-yg-wOD.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Rockridge"; ObjectID = "sBQ-fT-psK"; */
+"sBQ-fT-psK.title" = "Rockridge";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "saM-LD-I4h"; */
+"saM-LD-I4h.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "ucM-ei-jrY"; */
+"ucM-ei-jrY.title" = "Size";
+
+/* Class = "NSTextFieldCell"; title = "ISO 9660 Level"; ObjectID = "wgO-uL-bft"; */
+"wgO-uL-bft.title" = "ISO 9660 Level";
+
+/* Class = "NSMenuItem"; title = "bzip2"; ObjectID = "xSU-hx-VNp"; */
+"xSU-hx-VNp.title" = "bzip2";
+
+/* Class = "NSTextFieldCell"; title = "Volume name"; ObjectID = "zO9-19-JYn"; */
+"zO9-19-JYn.title" = "Volume name";

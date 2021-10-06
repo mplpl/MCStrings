@@ -1,0 +1,73 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Using remote file servers</title>
+    <meta name="keywords" content="ftp, ftps, ftpes, sftp, smb, samba, afp, dav, webdav" />
+    <meta name="description" content="Description of file servers supported by the MaxCommander app." />
+    <link media="screen" href="../main.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+
+<a name="remote_file_servers"></a>
+
+<figure class = "logo"> <img src = "../logo.png" alt = "" height = "30" width = "30" /> </figure>
+
+<h1>Using remote file servers</h1>
+
+With the MaxCommander, you can access and manage files on remote file servers.
+
+<br/><br/>
+
+<h3>FTP/SFTP</h3>
+
+<b>FTP</b> (and its secure variants <b>FTPS</b> and <b>FTPES</b>) and <b>SFTP</b> are supported natively by the MaxCommander app. After making a connection you will be able to access files from the MaxCommander app but not from other apps (including the Finder). When you exit the MaxCommander app, the connection will be terminated.
+
+<br/><br/>
+
+MaxCommander only supports FTP passive mode.
+FTP/SFTP server character encoding must be UTF-8.
+
+<h3>SMB/AFP/WebDAV</h3>
+
+<b>SMB</b>, <b>AFP</b> and <b>WebDAV</b> are supported over the operating system. After making a connection, a volume is mounted on the operating system level and stays mounted until you unmount it in the MaxCommander app or the Finder. You can access files on such volumes from the Finder even after the MaxCommander app quits.
+
+<h3>URL format</h3>
+
+When mounting a remote volume you need to provide its access URL, which is in the following format:
+<br/><br/>
+    <i>protocol://username@hostname:port/path<i>
+<br/><br/>
+
+<table>
+    <thead>
+        <th><p class = "TableHead">Attribute</p></th>
+        <th><p class = "TableHead">Description</p></th>
+    </thead>
+    <tbody>
+        <tr>
+            <td><i>protocol</i></td><td>The mandatory attribute that must be selected from the drop-down list.</td>
+        </tr><tr>
+            <td><i>username</i></td><td>The optional attribute, when omitted, the name of the user who is running the app will be used. If this attribute is omitted, following “@” must also be omitted.</td>
+        </tr><tr>
+            <td><i>hostname</i></td><td>The mandatory attribute – it can be a domain name or IP address. If IPv6 is used, it should be given in square brackets - “[“ and “]”.</td>
+        </tr><tr>
+            <td><i>port</i></td><td>The optional attribute – if omitted, the default port for the given protocol will be used. In such case, preceding “:” should also be omitted.</td>
+        </tr><tr>
+            <td><i>path</i></td><td>The optional attribute. It determines remote path that will be set after connecting to the server. If omitted, also preceding “/” should be omitted. This path may be absolute (when it starts from “/”) or relative. In the latter case, it relates to a default folder of the remote server (typically it is the given user home folder).<br/><br/>
+                For example, in “ftp://admin@127.0.0.1/test_dir”, the path is relative and is “test_dir”, which most likely means that subfolder “test_dir” of “admin” user home folder will be selected. But if the URL is “ftp://admin@127.0.0.1//test_dir” then “/test_dir” will be used.
+                <br/><br/>
+
+                <i>“path”</i> is only supported for FTP/SFTP.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+A password must not be given in the URL. It will be retrieved from the system Keystore and if not present there, you will be asked to provide it.
+
+<br/><br/>
+
+</body>
+</html>

@@ -1,0 +1,402 @@
+/* No comment provided by engineer. */
+"?" = "?";
+
+/* No comment provided by engineer. */
+"%@: %@/%@ (%lu%%), speed %@/s, T %@, ETA %@" = "%1$@: %2$@/%3$@ (%4$lu%%), Geschwindigkeit %5$@/s, T %6$@, ETA %7$@";
+
+/* No comment provided by engineer. */
+"%@: %ld/%lld file(s) (%lu%%), speed %ld file/s, T %@, ETA %@" = "%1$@: %2$ld/%3$lld Dateien (%4$lu%%), Geschwindigkeit %5$ld Dateien/s, T %6$@, ETA %7$@";
+
+/* No comment provided by engineer. */
+"%@/%@ (%lu%%), %@/s, %@ remaining" = "%1$@/%2$@ (%3$lu%%), %4$@/s, verbleibend %5$@";
+
+/* No comment provided by engineer. */
+"%ld/%lld file(s) (%lu%%), %ld file/s, %@ remaining" = "%1$ld/%2$lld Dateien (%3$lu%%), %4$ld Dateien/s, verbleibend %5$@";
+
+/* No comment provided by engineer. */
+"%lu item(s) selected (%@)" = "%1$lu Object(e) ausgewählt (%2$@)";
+
+/* No comment provided by engineer. */
+"%lu%% done, speed %@/s, %@ remaining" = "%1$lu%% fertig, Geschwindigkeit %2$@/s, verbleibend %3$@";
+
+/* No comment provided by engineer. */
+"%lu%% done, speed %ld file/s, %@ remaining" = "%1$lu%% fertig, Geschwindigkeit %2$ld Dateien/s, verbleibend %3$@";
+
+/* No comment provided by engineer. */
+"<BROKEN>" = "<GEBROCHEN>";
+
+/* No comment provided by engineer. */
+"<LINK>" = "<LINK>";
+
+/* No comment provided by engineer. */
+"<UNKNOWN>" = "<UNBEKANNT>";
+
+/* No comment provided by engineer. */
+"⌥+space bar = select/unselect an item" = "⌥+Leertaste = Objekt auswählen/abwählen";
+
+/* No comment provided by engineer. */
+"Add \"%@\"" = "Hinzufügen \"%@\"";
+
+/* do not translate */
+"anonymous" = "anonymous";
+
+/* No comment provided by engineer. */
+"Are you sure?" = "Bist du sicher?";
+
+/* No comment provided by engineer. */
+"Bookmarks to Directories" = "Lesezeichen für Ordner";
+
+/* No comment provided by engineer. */
+"Bookmarks to URLs" = "Lesezeichen für URLs";
+
+/* No comment provided by engineer. */
+"Cancel" = "Abbrechen";
+
+/* No comment provided by engineer. */
+"Canceling now may break the archive" = "Wenn Sie jetzt abbrechen, wird das Archiv möglicherweise beschädigt";
+
+/* No comment provided by engineer. */
+"Canceling operation" = "Vorgang abbrechen";
+
+/* No comment provided by engineer. */
+"Connected Volumes" = "Verbundene Volumen";
+
+/* No comment provided by engineer. */
+"Connecting to" = "Verbinden mit";
+
+/* No comment provided by engineer. */
+"Connecting volume" = "Volumen anschließen";
+
+/* No comment provided by engineer. */
+"Continue?" = "Fortsetzen?";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopieren";
+
+/* No comment provided by engineer. */
+"Copy Progress" = "Fortschritt kopieren";
+
+/* No comment provided by engineer. */
+"Copying file" = "Datei kopieren";
+
+/* No comment provided by engineer. */
+"Copying files to" = "Kopieren von Dateien nach";
+
+/* No comment provided by engineer. */
+"counting..." = "Berechnung ...";
+
+/* No comment provided by engineer. */
+"ctrl+space bar = count size" = "ctrl+Leertaste = Größe zählen";
+
+/* No comment provided by engineer. */
+"default" = "Standard";
+
+/* No comment provided by engineer. */
+"Destination archive is locked - it must be unlocked to continue the operation." = "Das Zielarchiv ist geschützt. Es muss ungeschützt sein, um den Vorgang fortzusetzen.";
+
+/* No comment provided by engineer. */
+"Destination folder is locked. It must be unlocked to copy files." = "Der Zielordner ist geschützt. Das Kopieren von Dateien muss ungeschützt sein.";
+
+/* No comment provided by engineer. */
+"Determining size of files to copy..." = "Berechnung der Größe der zu kopierenden Dateien ...";
+
+/* No comment provided by engineer. */
+"Determining size of files to download..." = "Berechnung der Größe der herunterzuladenden Dateien ...";
+
+/* No comment provided by engineer. */
+"Determining size of files to move..." = "Berechnung der Größe der zu verschiebenden Dateien ...";
+
+/* No comment provided by engineer. */
+"Determining size of files to remove..." = "Berechnung der Größe der zu löschenden Dateien ...";
+
+/* No comment provided by engineer. */
+"Determining size of files to upload..." = "Berechnung der Größe der hochzuladenden Dateien ...";
+
+/* No comment provided by engineer. */
+"Disconnect" = "Trennen";
+
+/* No comment provided by engineer. */
+"Disconnect..." = "Trennen ...";
+
+/* No comment provided by engineer. */
+"Do you want to continue?" = "Möchten sie weitermachen?";
+
+/* No comment provided by engineer. */
+"Download Progress" = "Download-Fortschritt";
+
+/* No comment provided by engineer. */
+"Downloading" = "Wird heruntergeladen";
+
+/* No comment provided by engineer. */
+"Downloading to" = "Herunterladen auf";
+
+/* No comment provided by engineer. */
+"Eject" = "Auswerfen";
+
+/* No comment provided by engineer. */
+"Eject..." = "Auswerfen ...";
+
+/* No comment provided by engineer. */
+"Ejecting volume" = "Volumen auswerfen";
+
+/* No comment provided by engineer. */
+"Enter new file name (with extension)" = "Neuen Dateinamen eingeben (mit Erweiterung)";
+
+/* No comment provided by engineer. */
+"Enter new folder name" = "Geben Sie den neuen Ordnernamen ein";
+
+/* No comment provided by engineer. */
+"Enter wildcard to match file names to select" = "Geben Sie das Muster der Namen der Objekte ein, die ausgewählt werden sollen";
+
+/* No comment provided by engineer. */
+"Enter wildcard to match file names to unselect" = "Geben Sie ein Muster für die Namen der Objekte ein, deren Auswahl aufgehoben werden soll";
+
+/* No comment provided by engineer. */
+"Enter your name and password for the server %@" = "Geben Sie den Benutzernamen und das Passwort für den Server %@ ein";
+
+/* No comment provided by engineer. */
+"Error while executing %@" = "Error beim Ausführen %@";
+
+/* No comment provided by engineer. */
+"Expand" = "Erweitern";
+
+/* No comment provided by engineer. */
+"File Names Encoding" = "Dateinamencodierung";
+
+/* No comment provided by engineer. */
+"Found %d item(s)" = "%d Objekte gefunden";
+
+/* No comment provided by engineer. */
+"Free %@/%@" = "Frei %1$@/%2$@";
+
+/* No comment provided by engineer. */
+"FTP & SFTP Connections" = "FTP- und SFTP-Verbindungen";
+
+/* No comment provided by engineer. */
+"Generating MD5 for files" = "MD5 für Dateien generieren";
+
+/* No comment provided by engineer. */
+"Get Info" = "Informationen";
+
+/* No comment provided by engineer. */
+"Listing archive" = "Auflistung des Archivinhalts";
+
+/* No comment provided by engineer. */
+"Listing folder" = "Auflistung des Ordnerinhalts";
+
+/* do not translate */
+"me@anonymous.com" = "me@anonymous.com";
+
+/* No comment provided by engineer. */
+"More..." = "Mehr ...";
+
+/* No comment provided by engineer. */
+"Move" = "Verschieben";
+
+/* No comment provided by engineer. */
+"Move Progress" = "Fortschritt verschieben";
+
+/* No comment provided by engineer. */
+"Moving file" = "Datei verschieben";
+
+/* No comment provided by engineer. */
+"Moving files to" = "Datei verschieben nach";
+
+/* No comment provided by engineer. */
+"Moving files to ISO 9660 image with level 1, 2 or 3 without Joliet and Rockridge significantly changes packed files names and is not recommended." = "Das Verschieben von Dateien in ein ISO 9660-Image mit Level 1, 2 oder 3 ohne Joliet und Rockridge ändert die Namen der gepackten Dateien erheblich und wird nicht empfohlen.";
+
+/* No comment provided by engineer. */
+"No" = "Nein";
+
+/* No comment provided by engineer. */
+"no compression" = "keine Komprimierung";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Öffnen";
+
+/* No comment provided by engineer. */
+"Open With" = "Öffnen mit";
+
+/* No comment provided by engineer. */
+"Other..." = "Andere ...";
+
+/* No comment provided by engineer. */
+"Pack Progress" = "Verpackungsfortschritt";
+
+/* No comment provided by engineer. */
+"Packing file" = "Verpackt Datei";
+
+/* No comment provided by engineer. */
+"Paste" = "Einsetzen";
+
+/* No comment provided by engineer. */
+"Path %@ has been added to Bookmarks" = "Der Pfad %@ wurde zu den Lesezeichen hinzugefügt";
+
+/* No comment provided by engineer. */
+"Path %@ is already present on Bookmarks" = "Pfad %@ ist bereits in Lesezeichen vorhanden";
+
+/* No comment provided by engineer. */
+"Path Added" = "Pfad hinzugefügt";
+
+/* No comment provided by engineer. */
+"Path not added" = "Pfad nicht hinzugefügt";
+
+/* No comment provided by engineer. */
+"Preparing copy operation" = "Kopiervorgang vorbereiten";
+
+/* No comment provided by engineer. */
+"Preparing download operation" = "Download-Vorgang vorbereiten";
+
+/* No comment provided by engineer. */
+"Preparing move operation" = "Verschieben vorbereiten";
+
+/* No comment provided by engineer. */
+"Preparing remove operation" = "Löschvorgang vorbereiten";
+
+/* No comment provided by engineer. */
+"Preparing upload operation" = "Upload-Vorgang vorbereiten";
+
+/* No comment provided by engineer. */
+"Remove \"%@\"" = "Löschen \"%@\"";
+
+/* No comment provided by engineer. */
+"Remove Folder Bookmark..." = "Ordner Lesezeichen löschen...";
+
+/* No comment provided by engineer. */
+"Remove Progress" = "Fortschritt löschen";
+
+/* No comment provided by engineer. */
+"Remove URL Bookmark..." = "URL-Lesezeichen löschen ...";
+
+/* No comment provided by engineer. */
+"Removing file" = "Datei löschen";
+
+/* No comment provided by engineer. */
+"Removing files from" = "Löschen von Dateien aus";
+
+/* No comment provided by engineer. */
+"Rename" = "Umbenennen";
+
+/* No comment provided by engineer. */
+"resolving..." = "Überprüfung ...";
+
+/* No comment provided by engineer. */
+"Run" = "Ausführen";
+
+/* No comment provided by engineer. */
+"Share" = "Teilen";
+
+/* No comment provided by engineer. */
+"Show Content" = "Inhalt zeigen";
+
+/* No comment provided by engineer. */
+"Show in Enclosing Folder" = "In übergeordneter Ordner anzeigen";
+
+/* No comment provided by engineer. */
+"Show in Finder" = "Im Finder anzeigen";
+
+/* No comment provided by engineer. */
+"Shrink" = "Verkleinern";
+
+/* No comment provided by engineer. */
+"space bar = select/unselect an item" = "Leertaste = Objekt auswählen/abwählen";
+
+/* No comment provided by engineer. */
+"Tags cannot be changed for a locked item" = "Tags können für gesperrte Objekte nicht geändert werden";
+
+/* No comment provided by engineer. */
+"Tags:" = "Tags:";
+
+/* No comment provided by engineer. */
+"The file %@ is encrypted with password. Enter the password." = "Die Datei %@ ist mit einem Passwort verschlüsselt. Geben Sie das Passwort ein.";
+
+/* No comment provided by engineer. */
+"The file is encrypted with password. Enter the password." = "Die Datei ist mit einem Passwort verschlüsselt. Geben Sie das Passwort ein.";
+
+/* No comment provided by engineer. */
+"There are no longer connections to perform this operation in the background" = "Es gibt keine Verbindungen, um diesen Vorgang im Hintergrund auszuführen";
+
+/* No comment provided by engineer. */
+"This archiver can only pack a single file" = "Dieser Archivierer kann nur eine einzige Datei packen";
+
+/* No comment provided by engineer. */
+"This archiver can only pack a single file (not folder)" = "Dieser Archivierer kann nur eine einzelne Datei (keinen Ordner) packen";
+
+/* No comment provided by engineer. */
+"Tip: ↵ = open with another application" = "Hinweis: ↵ = mit einer anderen Anwendung öffnen";
+
+/* No comment provided by engineer. */
+"Tip: ↵ = open, ⌘+↵ = open with another application" = "Hinweis: ↵ = öffnen, ⌘+↵ = mit einer anderen Anwendung öffnen";
+
+/* No comment provided by engineer. */
+"Tip: ↵ = run, ⌥+↵ = show content, ⌘+↵ = open with another application" = "Hinweis: ↵ = ausführen, ⌥+↵ = Inhalt anzeigen, ⌘+↵ = mit einer anderen Anwendung öffnen";
+
+/* No comment provided by engineer. */
+"Tip: ↵ = show content" = "Hinweis: ↵ = Inhalt anzeigen";
+
+/* No comment provided by engineer. */
+"Tip: ↵ = show content, ⌥+↵ = open, ⌘+↵ = open with another application" = "Hinweis: ↵ = Inhalt anzeigen, ⌥+↵ = öffnen, ⌘+↵ = mit einer anderen Anwendung öffnen";
+
+/* No comment provided by engineer. */
+"Tip: if function keys do not work, use ⌘+number" = "Hinweis: Wenn die Funktionstasten nicht funktionieren, verwenden Sie ⌘+Nummer";
+
+/* No comment provided by engineer. */
+"Unpack" = "Auspacken";
+
+/* No comment provided by engineer. */
+"Unpack Progress" = "Entpacken-Fortschritt";
+
+/* No comment provided by engineer. */
+"Unpacking file" = "Datei entpacken";
+
+/* No comment provided by engineer. */
+"Unpacking files to" = "Dateien entpacken nach";
+
+/* No comment provided by engineer. */
+"Upload Progress" = "Hochladen-Fortschritt";
+
+/* No comment provided by engineer. */
+"Uploading" = "Hochladen";
+
+/* No comment provided by engineer. */
+"Uploading to" = "Hochladen auf";
+
+/* No comment provided by engineer. */
+"URL %@ has been added to Bookmarks" = "URL %@ wurde zu Lesezeichen hinzugefügt";
+
+/* No comment provided by engineer. */
+"URL %@ is already present in Bookmarks" = "URL %@ ist bereits in Lesezeichen vorhanden";
+
+/* No comment provided by engineer. */
+"URL Added" = "URL hinzugefügt";
+
+/* No comment provided by engineer. */
+"URL not added" = "URL nicht hinzugefügt";
+
+/* No comment provided by engineer. */
+"Waiting for another operation to complete" = "Warten auf den Abschluss eines weiteren Vorgangs";
+
+/* No comment provided by engineer. */
+"xxxxxxxxxxx" = "xxxxxxxxxxxx";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+
+/* No comment provided by engineer. */
+"You are about to copy %lu item(s)" = "Sie kopieren %lu Objekt(e)";
+
+/* No comment provided by engineer. */
+"You are about to delete %lu item(s)" = "Sie löschen %lu Objekt(e)";
+
+/* No comment provided by engineer. */
+"You are about to move %lu item(s)" = "Sie verschieben %lu Objekt(e)";
+
+/* No comment provided by engineer. */
+"You are about to unpack %lu item(s)" = "Sie entpacken %lu Objekt(e)";
+
+/* No comment provided by engineer. */
+"You're about to change localized name - after rename it will not be localized any more." = "Sie ändern den lokalisierten Namen - nach dem Umbenennen wird er nicht mehr lokalisiert.";
+

@@ -1,0 +1,57 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Running Operations using Multiple Jobs</title>
+    <meta name="keywords" content="jobs, parallelization, nultijobs" />
+    <meta name="description" content="Parallelize operation to get it done faster in MaxCommander" />
+    <link media="screen" href="../main.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+
+<a name="multi_jobs"></a>
+
+<figure class = "logo"> <img src = "../logo.png" alt = "" height = "30" width = "30" /> </figure>
+
+<h1>Running Operations using Multiple Jobs</h1>
+
+Setting multiple jobs for a file operation allows you to complete that operation faster, but not in all the cases.
+
+<h3>Copying item on local storage</h3>
+
+You can take advantage of using multi-job operations when copying items between folders in local storage, especially if you have a fast NVMe drive. In such case, the more jobs you set, thethe better performance you can get. For slower SSDs or HDDs, you can still see some performance improvement when you set 2 or 4 jobs - higher values will not bring any improvement and in some cases may even increase operation time.
+
+<br/><br/>
+
+You won't notice any performance improvement if you only have one large file to copy.
+
+<h3>FTP/SFTP uploads and downloads</h3>
+
+Increasing the number of jobs can significantly reduce the download and upload time for FTP / SFTP. In general, the more jobs you have, the better performance you can get, but there are some exceptions. You won't see any improvement if:
+
+<ul>
+    <li>you need to upload/download one large file</li>
+    <li>the FTP/SFTP server you are connecting to is overloaded (slow) or has a slow network connectivity</li>
+    <li>you Mac is overloaded (slow) or has a slow network connectivity</li>
+    <li>the FTP/SFTP service provider <a href="multiple_connections.html">limits number of connections</a> per user or IP or throttling these connections</li>
+</ul>
+
+
+<h3>Unpacking from archives</h3>
+
+You can decrease unpack operation time by using multiple jobs per operation. That works well except when you have thousands of files to unpack. In that case you will still see improvement if you are using a fast NVMe storage. But on a slower SSD the operation time may stay unchanged and if a HDD is in use, the time may even increase.
+
+<br/><br/>
+
+You won't notice any performance improvement if you only have one large file to unpack.
+
+
+<h3>Deleting items</h3>
+
+Using multiple jobs is beneficial when there are many items to delete (size does not matter here).
+
+<br/><br/>
+
+</body>
+</html>
+

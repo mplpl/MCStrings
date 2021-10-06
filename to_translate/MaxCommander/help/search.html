@@ -1,0 +1,151 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Searching for items</title>
+    <meta name="keywords" content="search, find" />
+    <meta name="description" content="Searching for items in MaxCommander" />
+    <link media="screen" href="../main.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+
+<a name="search"></a>
+
+<figure class = "logo"> <img src = "../logo.png" alt = "" height = "30" width = "30" /> </figure>
+
+<h1>Searching for items</h1>
+
+<h3>Quick find</h3>
+
+To find and select an item in the current folder, quickly start typing its name and the first item on the list which name starts from letters you typed will be selected.
+
+<h3>Searching for items on local drives</h3>
+
+When browsing a local folder, press <key>Command + f</key> to show the search panel. In it, you can specify the following options:
+
+<br/><br/>
+
+<table>
+<thead>
+    <th><p class = "TableHead">Option</p></th>
+    <th><p class = "TableHead">Description</p></th>
+</thead>
+<tbody>
+<tr>
+    <td><b>File Name</b></td><td>a pattern to search in file names (with extensions)</td>
+</tr><tr>
+    <td><b>Content</b></td><td>a pattern to search in content of files</td>
+</tr></tr>
+    <td><b>Scope</b></td><td>where the search should be performed, one of:
+        <ul>
+            <li><b>This Folder</b> – search the current folder and its subfolders</li>
+            <li><b>This Mac</b> – search all the local drives of this Mac</li>
+        </ul>
+    </td>
+</tr><tr>
+    <td><b>Exact Match</b></td><td>removes “*” wildcards from the beginning and the end of the search patterns</td>
+</tr><tr>
+    <td><b>Ignore Case</b></td><td>ignore letter case when searching</td>
+</tr><tr>
+    <td><b>No Spotlight</b></td><td>if set, Spotlight will not be used, instead low-level search will be performed</td>
+</tr>
+</tbody>
+</table>
+
+Patterns for name and content search can use two wildcards:
+
+<br/><br/>
+
+<table>
+    <thead>
+        <th><p class = "TableHead">Wildcard</p></th>
+        <th><p class = "TableHead">Description</p></th>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>*</b></td><td> means any character string, including the empty string</td>
+        </tr><tr>
+            <td><b>?</b></td><td>means any character</td>
+        </tr>
+    </tbody>
+</table>
+
+For example, “*aa?cc*” would match “111aaBcc” and “1aa2cc3” but not “1bb2cc”.
+
+<br/><br/>
+
+When “Exact Match” is not set (default), the app automatically adds “*” at the beginning and the end of the pattern (for example, when you type “abc” the app will use “*abc*” as a search pattern).
+
+<br/><br/>
+
+Using Spotlight (default) is very fast because it bases on an index that Spotlight creates in advance. But Spotlight has its own policy what to index and what to skip which means that some file types and folders will never appear in its search results. It also skips items that have not been indexed yet. If you want to search all the files, you can switch to the low-level search. It takes much more time, but all the items are included in the operation. When searching in content of items without using Spotlight, “Exact Match” option is ignored.
+
+<br/><br/>
+
+Setting "File Name" or "Content" starts the search operation. Making a change in any attribute restarts it.
+
+<h3>Searching for items on FTP/SFTP servers</h3>
+
+When browsing FTP/SFTP folders, you can start search by pressing <key>Command + f</key> to show the search panel. In it, you can specify the following options:
+
+<br/><br/>
+<table>
+<thead>
+    <th><p class = "TableHead">Option</p></th>
+    <th><p class = "TableHead">Description</p></th>
+</thead>
+<tbody>
+<tr>
+    <td><b>File Name</b></td><td>a pattern to search in file names (with extensions)</td>
+<tr></tr>
+    <td><b>Exact Match</b></td><td>removes “*” wildcards from the beginning and the end of a search pattern</td>
+<tr></tr>
+    <td><b>Ignore Case</b></td><td>ignore letter case when searching</td>
+</tr>
+</tbody>
+</table>
+
+You can use wildcards in file name pattern just like in searching on local drives.
+
+<br/><br/>
+
+Setting "File Name" starts the search operation. Making a change in any attribute restarts it.
+
+
+<h3>Searching for items in archives</h3>
+
+When browsing an archive file, you can start searching for its items by pressing <key>Command + f</key>. It shows the search panel where you can specify the following options:
+
+<br/><br/>
+<table>
+<thead>
+    <th><p class = "TableHead">Option</p></th>
+    <th><p class = "TableHead">Description</p></th>
+</thead>
+<tbody>
+<tr>
+    <td><b>File Name</b></td><td>a pattern to search in file names (with extensions)</td>
+<tr></tr>
+    <td><b>Exact Match</b></td><td>removes “*” wildcards from the beginning and the end of a search pattern</td>
+<tr></tr>
+    <td><b>Ignore Case</b></td><td>ignore letter case when searching</td>
+</tr>
+</tbody>
+</table>
+
+You can use wildcards in file name pattern just like in searching on local drives.
+
+<br/><br/>
+
+Note that searching for items in an archive works only when you are browsing this archive – when searching local drives, items in archives are not taken into account.
+
+<br/><br/>
+
+Setting "File Name" starts the search operation. Making a change in any attribute restarts it.
+
+<br/><br/>
+
+</body>
+</html>
+
+

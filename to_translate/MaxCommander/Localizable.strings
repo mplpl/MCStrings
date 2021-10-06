@@ -1,0 +1,225 @@
+/* No comment provided by engineer. */
+"%@, %d item(s)" = "%1$@, %2$d Objekt(e)";
+
+/* No comment provided by engineer. */
+"A file or folder with this name already exists" = "Eine Datei oder ein Ordner mit diesem Namen ist bereits vorhanden";
+
+/* No comment provided by engineer. */
+"A tool for Compare by Content function is not set. Use Set Comparison Tool command from Settings menu to set a tool. Supported tools are KDiff3 and DiffMerge." = "Ein Tool für die Funktion \"Vergleichen von Inhalt\" ist nicht festgelegt. Verwenden Sie den Befehl \"Vergleichstool auswählen ...\" im Menü Einstellungen, um ein Tool festzulegen. Unterstützte Tools sind KDiff3 und DiffMerge.";
+
+/* No comment provided by engineer. */
+"Append only" = "Anfügen nur";
+
+/* No comment provided by engineer. */
+"Bonjour Browser..." = "Bonjour Browser ...";
+
+/* No comment provided by engineer. */
+"Busy" = "Geschäftig";
+
+/* No comment provided by engineer. */
+"Clean history" = "Verlauf löschen";
+
+/* No comment provided by engineer. */
+"Comparison tool is not set" = "Das Vergleichstool ist nicht eingestellt";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopieren";
+
+/* No comment provided by engineer. */
+"Counting..." = "Zählen ...";
+
+/* No comment provided by engineer. */
+"Destination folder does not exist" = "Zielordner existiert nicht";
+
+/* No comment provided by engineer. */
+"Destination folder exists as a file" = "Zielordner vorhanden ist als Datei";
+
+/* No comment provided by engineer. */
+"Device identifier" = "Gerätekennung";
+
+/* No comment provided by engineer. */
+"Disconnect" = "Trennen";
+
+/* No comment provided by engineer. */
+"Discovered Bonjour Services" = "Entdeckt Bonjour-Dienste";
+
+/* No comment provided by engineer. */
+"Do you want to terminated them and disconnect?" = "Möchten Sie sie beenden und die Verbindung trennen?";
+
+/* No comment provided by engineer. */
+"Do you want to terminated them?" = "Möchten Sie dann stornieren?";
+
+/* No comment provided by engineer. */
+"Do you want to use that unsupported tool anyway?" = "Möchten Sie dieses nicht unterstützte Tool trotzdem verwenden?";
+
+/* No comment provided by engineer. */
+"Edit" = "Bearbeiten";
+
+/* No comment provided by engineer. */
+"Error while running comparison tool" = "Fehler beim Ausführen des Vergleichstools";
+
+/* No comment provided by engineer. */
+"Error while running MD5 tool" = "Fehler beim Ausführen des MD5-Tools";
+
+/* No comment provided by engineer. */
+"File system file number" = "Dateisystem-Dateinummer";
+
+/* No comment provided by engineer. */
+"File system number" = "Dateisystemnummer";
+
+/* No comment provided by engineer. */
+"Files are different" = "Dateien sind unterschiedlich";
+
+/* No comment provided by engineer. */
+"Files are identical" = "Dateien sind identisch";
+
+/* No comment provided by engineer. */
+"Folders are identical" = "Ordner sind identisch";
+
+/* No comment provided by engineer. */
+"Grant access to MaxCommander" = "MaxCommander-Zugriff gewähren";
+
+/* No comment provided by engineer. */
+"Hard links can only be created for files" = "Hardlinks können nur für Dateien erstellt werden";
+
+/* No comment provided by engineer. */
+"Hard links can only be created on the same volume" = "Hardlinks können nur auf demselben Volume erstellt werden";
+
+/* No comment provided by engineer. */
+"HFS Creator code" = "HFS-Erstellungscode";
+
+/* No comment provided by engineer. */
+"HFS Type code" = "HFS-Typcode";
+
+/* No comment provided by engineer. */
+"Item Info" = "Informationen";
+
+/* No comment provided by engineer. */
+"Item with the same name as new link already exists" = "Objekt mit demselben Namen wie der neue Link ist bereits vorhanden";
+
+/* No comment provided by engineer. */
+"Link" = "Link";
+
+/* No comment provided by engineer. */
+"Make Folder" = "Neuer Ordner";
+
+/* No comment provided by engineer. */
+"MD5 checksums are:\n%@" = "MD5-Prüfsummen sind:\n%@";
+
+/* No comment provided by engineer. */
+"MD5 checksums are:\n%@\n%@" = "MD5-Prüfsummen sind:\n%1$@\n%2$@";
+
+/* No comment provided by engineer. */
+"MD5 compare can only be run on files" = "Der MD5-Vergleich kann nur für Dateien ausgeführt werden";
+
+/* No comment provided by engineer. */
+"MD5 generation failed" = "MD5-Generierung fehlgeschlagen";
+
+/* No comment provided by engineer. */
+"Modification date must be greater or equal to creation date." = "Das Änderungsdatum muss größer oder gleich dem Erstellungsdatum sein.";
+
+/* No comment provided by engineer. */
+"More..." = "Mehr ...";
+
+/* No comment provided by engineer. */
+"Move" = "Bewegen";
+
+/* No comment provided by engineer. */
+"No" = "Nein";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Operation aborted" = "Vorgang abgebrochen";
+
+/* No comment provided by engineer. */
+"Pack" = "Packen";
+
+/* No comment provided by engineer. */
+"Quick Look" = "Übersicht";
+
+/* No comment provided by engineer. */
+"Remove" = "Löschen";
+
+/* No comment provided by engineer. */
+"Save operation aborted." = "Speichervorgang abgebrochen";
+
+/* No comment provided by engineer. */
+"Select bookmarks to remove" = "Wählen Sie die zu löschenden Lesezeichen aus";
+
+/* No comment provided by engineer. */
+"Select FTP/SFTP connections to disconnect" = "Wählen Sie FTP / SFTP-Verbindungen zu trennen";
+
+/* No comment provided by engineer. */
+"Show in Finder" = "Im Finder anzeigen";
+
+/* No comment provided by engineer. */
+"Show in Terminal" = "Im Terminal anzeigen";
+
+/* No comment provided by engineer. */
+"Terminate the operations and close the window?" = "Operationen beenden und Fenster schließen?";
+
+/* No comment provided by engineer. */
+"The destination folder already contains an item named %@ which is a folder. The operation cannot be performed until this item is deleted." = "Der Zielordner enthält bereits ein Element mit dem Namen %@, bei dem es sich um einen Ordner handelt. Der Vorgang kann erst ausgeführt werden, wenn dieses Element gelöscht wurde.";
+
+/* No comment provided by engineer. */
+"The item cannot be copied to its own subfolder" = "Der Ordner kann nicht in einen eigenen Unterordner kopiert werden";
+
+/* No comment provided by engineer. */
+"The item cannot be copied to this location" = "Das Objekt kann nicht an diesen Ort kopiert werden";
+
+/* No comment provided by engineer. */
+"The item cannot be moved to this location" = "Das Objekt kann nicht an diesen Ort verschoben werden";
+
+/* No comment provided by engineer. */
+"The item cannot be packed to itself" = "Das Objekt kann nicht in sich selbst gepackt werden";
+
+/* No comment provided by engineer. */
+"The item cannot be packed to this location" = "Das Objekt kann nicht an diesen Ort gepackt werden";
+
+/* No comment provided by engineer. */
+"There are some operations running in background that use this connection." = "Im Hintergrund werden einige Vorgänge ausgeführt, die diese Verbindung verwenden.";
+
+/* No comment provided by engineer. */
+"There are some operations running in background that use this device or service." = "Im Hintergrund werden einige Vorgänge ausgeführt, die dieses Gerät oder diesen Dienst verwenden.";
+
+/* No comment provided by engineer. */
+"There are some operations running in background. If you close the window now, they will be terminated and some files may not be usable." = "Es gibt einige Operationen im Hintergrund ausgeführt wird. Wenn Sie das Fenster jetzt schließen, werden sie beendet und einige Dateien können möglicherweise nicht verwendet werden.";
+
+/* No comment provided by engineer. */
+"Tools: %@\nMessage: %@" = "Werkzeuge: %1$@\nNachricht: %2$@";
+
+/* No comment provided by engineer. */
+"Unpack" = "Auspacken";
+
+/* No comment provided by engineer. */
+"Unset" = "Nicht eingestellt";
+
+/* No comment provided by engineer. */
+"URL %@ has been added to Bookmarks" = "URL %@ wurde zu Lesezeichen hinzugefügt";
+
+/* No comment provided by engineer. */
+"URL %@ is already present in Bookmarks" = "URL %@ ist bereits in Lesezeichen vorhanden";
+
+/* No comment provided by engineer. */
+"URL Added" = "URL hinzugefügt";
+
+/* No comment provided by engineer. */
+"URL not added" = "URL nicht hinzugefügt";
+
+/* No comment provided by engineer. */
+"Warning" = "Warnung";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+
+/* No comment provided by engineer. */
+"You did not grant access to your 'Macintosh HD' and because of that some folders may not be accessible in the app." = "Sie haben Ihrem 'Macintosh HD' keinen Zugriff gewährt und daher sind einige Ordner in der App möglicherweise nicht zugänglich.";
+
+/* No comment provided by engineer. */
+"To repeat this setup later, select 'Access Setup' from 'Settings' menu." = "Um dieses Setup später zu wiederholen, wählen Sie „Zugriffseinstellung“ aus dem Menü „Einstellungen“.";
+
+/* No comment provided by engineer. */
+"You selected unsupported comparison tool - it may not work well or crash. Use KDiff3 or DiffMerge to avoid problems." = "Sie haben ein nicht unterstütztes Vergleichstool ausgewählt - es funktioniert möglicherweise nicht gut oder es kann abstürzen. Verwenden Sie KDiff3 oder DiffMerge, um Probleme zu vermeiden.";
+

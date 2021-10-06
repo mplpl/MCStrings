@@ -1,0 +1,103 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Selecting items</title>
+    <meta name="keywords" content="select, selecting, selection, hard, soft" />
+    <meta name="description" content="Description of available options for selecting items in the MaxCommander app." />
+    <link media="screen" href="../main.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body>
+
+<a name="selecting"></a>
+
+<figure class = "logo"> <img src = "../logo.png" alt = "" height = "30" width = "30" /> </figure>
+
+<h1>Selecting items</h1>
+
+<h3>Normal and hard selection</h3>
+
+Effective items selection is crucial for using the MaxCommander app as selected items are subjects of the file management operation like copying or deleting. There are two types of selection:
+<br/>
+<ul>
+<li><b>(Normal) selection</b> – allows to only select one item</li>
+<li><b>Hard selection</b> – allows to select multiple items from the same folder<br/></li>
+</ul>
+
+For simplicity, in this document we will use a term 'selection' instead of 'normal selection'.
+
+<br/>
+
+<h3>Selecting items</h3>
+
+To select an item, you just click the item or move the cursor to that item using arrows. Such selection happens all the time when you are browsing folders in the MaxCommander app and there is always one item that is selected.
+
+<br/><br/>
+
+Changing selection does not impact the set of hard selected items.
+
+<h3> Selecting with quick find</h3>
+
+You can select an item by quickly typing its name (or the begining of the name). When you do that, the first item which name start form the prefix you typed will be selected. Letter case is not taken into account.
+
+<h3>Hard selecting items</h3>
+
+To hard-select an item, select it and then press <key>Shift + Down arrow</key> (or <key>Control + Space</key>). This will hard-select the item and move the selection down. To hard-select and move the selection up, press <key>Shift + Up arrow</key>. If an item is already hard-selected, using one of these methods will unselect it.
+
+<br/><br/>
+
+To select an item that is a folder and count its size, press <key>Option + Space</key>.
+
+<br/><br/>
+
+You can also hard-select multiple items at once: select an item, then press <key>Shift</key> and use your mouse to click another item, and all the items between them will be hard selected.
+
+<br/><br/>
+
+To hard-select all the items, press <key>Command + a</key>.
+
+<br/><br/>
+
+To unselect all the items, press <key>Control + n</key>.
+
+<br/><br/>
+
+You can invert the current hard-selection press <key>*</key> – items that are hard-selected will become unselected, and these unselected will be hard-selected.
+
+<br/><br/>
+
+You can also use wildcards to extend or shrink the hard-selection – press <key>+</key> or <key>-</key> key.
+
+
+
+<h3>Selection and operations</h3>
+
+In general, operations like copying, moving, deleting, etc. take into account the list of hard selected items from the current panel and if none is hard select, the item that is normally selected is taken.
+
+<br/><br/>
+
+There are a few exceptions made for operation that only takes single files as inputs. Such operations ignore hard selection and only use the normally selected item instead. This includes:
+<br/>
+<ul>
+<li>Running/opening an item (<key>Enter</key>)<br/></li>
+<li>Displaying an item information (<key>Command + i</key>)<br/></li>
+<li>Rename (<key>Control + r</key>)<br/></li>
+<li>Comparing items by content – it only takes into account selected items in both panels<br/></li>
+<li>Comparing MD5 - it only takes into account selected items in both panels</li>
+</ul>
+
+<h3>Selection and an item context menu</h3>
+
+
+When requesting an operation from item’s context menu (it opens when you click an item with the right mouse button) there is another aspect that needs to be taken into account – right-clicked item may be neither normal nor hard selected. Therefore, for operations requested from that menu:
+<br/>
+<ul>
+<li>If the clicked item is not hard selected or when an operation only supports single items, the clicked item will be the subject for the operation<br/></li>
+<li>Otherwise, all the hard selected items are the subject for the operation</li>
+</ul>
+<br/><br/>
+
+</body>
+</html>
+
+

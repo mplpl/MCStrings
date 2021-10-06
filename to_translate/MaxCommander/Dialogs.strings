@@ -1,0 +1,282 @@
+
+/* Class = "NSWindow"; title = "Item Info"; ObjectID = "203"; */
+"203.title" = "Item Info";
+
+/* Class = "NSTextFieldCell"; title = "Type"; ObjectID = "206"; */
+"206.title" = "Type";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "212"; */
+"212.title" = "Size";
+
+/* Class = "NSTextFieldCell"; title = "Date modified"; ObjectID = "216"; */
+"216.title" = "Date modified";
+
+/* Class = "NSTextFieldCell"; title = "Reference count"; ObjectID = "220"; */
+"220.title" = "Reference count";
+
+/* Class = "NSTextFieldCell"; title = "Owner name"; ObjectID = "228"; */
+"228.title" = "Owner name";
+
+/* Class = "NSTextFieldCell"; title = "Group name"; ObjectID = "232"; */
+"232.title" = "Group name";
+
+/* Class = "NSTextFieldCell"; title = "POSIX permission"; ObjectID = "236"; */
+"236.title" = "POSIX permission";
+
+/* Class = "NSTextFieldCell"; title = "Extension hidden"; ObjectID = "248"; */
+"248.title" = "Extension hidden";
+
+/* Class = "NSTextFieldCell"; title = "Immutable/locked"; ObjectID = "260"; */
+"260.title" = "Immutable/locked";
+
+/* Class = "NSTextFieldCell"; title = "Date created"; ObjectID = "268"; */
+"268.title" = "Date created";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "290"; */
+"290.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Application to run"; ObjectID = "326"; */
+"326.title" = "Application to run";
+
+/* Class = "NSTextFieldCell"; title = "Provided by"; ObjectID = "333"; */
+"333.title" = "Provided by";
+
+/* Class = "NSTextFieldCell"; title = "Localized name"; ObjectID = "342"; */
+"342.title" = "Localized name";
+
+/* Class = "NSWindow"; title = "Permissions"; ObjectID = "410"; */
+"410.title" = "Permissions";
+
+/* Class = "NSTextFieldCell"; title = "sticky bit"; ObjectID = "439"; */
+"439.title" = "sticky bit";
+
+/* Class = "NSTextFieldCell"; title = "execute with GID"; ObjectID = "440"; */
+"440.title" = "execute with GID";
+
+/* Class = "NSTextFieldCell"; title = "execute with UID"; ObjectID = "441"; */
+"441.title" = "execute with UID";
+
+/* Class = "NSTextFieldCell"; title = "execute"; ObjectID = "442"; */
+"442.title" = "execute";
+
+/* Class = "NSTextFieldCell"; title = "execute"; ObjectID = "443"; */
+"443.title" = "execute";
+
+/* Class = "NSTextFieldCell"; title = "execute"; ObjectID = "444"; */
+"444.title" = "execute";
+
+/* Class = "NSTextFieldCell"; title = "write"; ObjectID = "445"; */
+"445.title" = "write";
+
+/* Class = "NSTextFieldCell"; title = "write"; ObjectID = "446"; */
+"446.title" = "write";
+
+/* Class = "NSTextFieldCell"; title = "write"; ObjectID = "447"; */
+"447.title" = "write";
+
+/* Class = "NSTextFieldCell"; title = "read"; ObjectID = "448"; */
+"448.title" = "read";
+
+/* Class = "NSTextFieldCell"; title = "read"; ObjectID = "449"; */
+"449.title" = "read";
+
+/* Class = "NSTextFieldCell"; title = "Other"; ObjectID = "453"; */
+"453.title" = "Other";
+
+/* Class = "NSTextFieldCell"; title = "Group"; ObjectID = "454"; */
+"454.title" = "Group";
+
+/* Class = "NSTextFieldCell"; title = "User"; ObjectID = "455"; */
+"455.title" = "User";
+
+/* Class = "NSTextFieldCell"; title = "read"; ObjectID = "461"; */
+"461.title" = "read";
+
+/* Class = "NSWindow"; title = "Date"; ObjectID = "466"; */
+"466.title" = "Date";
+
+/* Class = "NSButtonCell"; title = "Apply Now"; ObjectID = "526"; */
+"526.title" = "Apply Now";
+
+/* Class = "NSWindow"; title = "Unmount"; ObjectID = "674"; */
+"674.title" = "Unmount";
+
+/* Class = "NSTextFieldCell"; title = "Select volumes to eject"; ObjectID = "677"; */
+"677.title" = "Select volumes to eject";
+
+/* Class = "NSButtonCell"; title = "Unmount"; ObjectID = "690"; */
+"690.title" = "Unmount";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "692"; */
+"692.title" = "Close";
+
+/* Class = "NSWindow"; title = "Bonjour Browser"; ObjectID = "700"; */
+"700.title" = "Bonjour Browser";
+
+/* Class = "NSBox"; title = "Services to discover"; ObjectID = "702"; */
+"702.title" = "Services to discover";
+
+/* Class = "NSButtonCell"; title = "AFP"; ObjectID = "704"; */
+"704.title" = "AFP";
+
+/* Class = "NSButtonCell"; title = "SMB"; ObjectID = "706"; */
+"706.title" = "SMB";
+
+/* Class = "NSButtonCell"; title = "FTP"; ObjectID = "708"; */
+"708.title" = "FTP";
+
+/* Class = "NSButtonCell"; title = "WebDAV"; ObjectID = "710"; */
+"710.title" = "WebDAV";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "716"; */
+"716.headerCell.title" = "Type";
+
+/* Class = "NSTableColumn"; headerCell.title = "Service Name"; ObjectID = "717"; */
+"717.headerCell.title" = "Service Name";
+
+/* Class = "NSButtonCell"; title = "Mount"; ObjectID = "721"; */
+"721.title" = "Mount";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "723"; */
+"723.title" = "Close";
+
+/* Class = "NSTableColumn"; headerCell.title = "Address"; ObjectID = "724"; */
+"724.headerCell.title" = "Address";
+
+/* Class = "NSTableColumn"; headerCell.title = "Port"; ObjectID = "726"; */
+"726.headerCell.title" = "Port";
+
+/* Class = "NSTextFieldCell"; title = "Discovering..."; ObjectID = "758"; */
+"758.title" = "Discovering...";
+
+/* Class = "NSWindow"; title = "Mount URL"; ObjectID = "760"; */
+"760.title" = "Mount URL";
+
+/* Class = "NSComboBoxCell"; title = "afp://"; ObjectID = "763"; */
+"763.title" = "afp://";
+
+/* Class = "NSComboBoxCell"; 763.ibShadowedObjectValues[0] = "ftp://"; ObjectID = "763"; */
+"763.ibShadowedObjectValues[0]" = "ftp://";
+
+/* Class = "NSComboBoxCell"; 763.ibShadowedObjectValues[1] = "webdav://"; ObjectID = "763"; */
+"763.ibShadowedObjectValues[1]" = "webdav://";
+
+/* Class = "NSComboBoxCell"; 763.ibShadowedObjectValues[2] = "smb://"; ObjectID = "763"; */
+"763.ibShadowedObjectValues[2]" = "smb://";
+
+/* Class = "NSComboBoxCell"; 763.ibShadowedObjectValues[3] = "afp://"; ObjectID = "763"; */
+"763.ibShadowedObjectValues[3]" = "afp://";
+
+/* Class = "NSComboBoxCell"; 763.ibShadowedObjectValues[4] = "sftp://"; ObjectID = "763"; */
+"763.ibShadowedObjectValues[4]" = "sftp://";
+
+/* Class = "NSTextFieldCell"; title = "URL to mount"; ObjectID = "765"; */
+"765.title" = "URL to mount";
+
+/* Class = "NSTextFieldCell"; placeholderString = "user@host or user@host:port"; ObjectID = "767"; */
+"767.placeholderString" = "user@host or user@host:port";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "778"; */
+"778.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "780"; */
+"780.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "781"; */
+"781.title" = "Item 3";
+
+/* Class = "NSButtonCell"; title = "Mount"; ObjectID = "785"; */
+"785.title" = "Mount";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "787"; */
+"787.title" = "Close";
+
+/* Class = "NSButtonCell"; title = "Add to Bookmarks"; ObjectID = "789"; */
+"789.title" = "Add to Bookmarks";
+
+/* Class = "NSWindow"; title = "Remove Bookmark"; ObjectID = "807"; */
+"807.title" = "Remove Bookmark";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "817"; */
+"817.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Remove"; ObjectID = "819"; */
+"819.title" = "Remove";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "821"; */
+"821.title" = "Close";
+
+/* Class = "NSTextFieldCell"; title = "Select bookmarks to remove"; ObjectID = "823"; */
+"823.title" = "Select bookmarks to remove";
+
+/* Class = "NSButtonCell"; title = "Add URL to Bookmarks"; ObjectID = "833"; */
+"833.title" = "Add URL to Bookmarks";
+
+/* Class = "NSTextFieldCell"; title = "Show All Attributes"; ObjectID = "914"; */
+"914.title" = "Show All Attributes";
+
+/* Class = "NSButtonCell"; title = "SFTP"; ObjectID = "921"; */
+"921.title" = "SFTP";
+
+/* Class = "NSTextFieldCell"; title = "Username"; ObjectID = "960"; */
+"960.title" = "Username";
+
+/* Class = "NSTextFieldCell"; title = "Leave blank for current"; ObjectID = "962"; */
+"962.title" = "Leave blank for current";
+
+/* Class = "NSWindow"; title = "Compare Folders Options"; ObjectID = "965"; */
+"965.title" = "Compare Folders Options";
+
+/* Class = "NSButtonCell"; title = "Select both files"; ObjectID = "968"; */
+"968.title" = "Select both files";
+
+/* Class = "NSButtonCell"; title = "Select newer file only"; ObjectID = "969"; */
+"969.title" = "Select newer file only";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "970"; */
+"970.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "When changed file is found:"; ObjectID = "972"; */
+"972.title" = "When changed file is found:";
+
+/* Class = "NSButtonCell"; title = "Ignore folders"; ObjectID = "974"; */
+"974.title" = "Ignore folders";
+
+/* Class = "NSButtonCell"; title = "Ignore dates"; ObjectID = "976"; */
+"976.title" = "Ignore dates";
+
+/* Class = "NSButtonCell"; title = "Compare"; ObjectID = "978"; */
+"978.title" = "Compare";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "980"; */
+"980.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Select neither"; ObjectID = "991"; */
+"991.title" = "Select neither";
+
+/* Class = "NSButtonCell"; title = "Ignore singletons"; ObjectID = "993"; */
+"993.title" = "Ignore singletons";
+
+/* Class = "NSTextFieldCell"; title = "Note: For folders only name matters"; ObjectID = "997"; */
+"997.title" = "Note: For folders only name matters";
+
+/* Class = "NSTextFieldCell"; title = "When comparing:"; ObjectID = "1061"; */
+"1061.title" = "When comparing:";
+
+/* Class = "NSTextFieldCell"; title = "Link target"; ObjectID = "1117"; */
+"1117.title" = "Link target";
+
+/* Class = "NSWindow"; title = "Field Value"; ObjectID = "1194"; */
+"1194.title" = "Field Value";
+
+/* Class = "NSButtonCell"; title = "Anonymous login"; ObjectID = "MvL-BE-a2a"; */
+"MvL-BE-a2a.title" = "Anonymous login";
+
+/* Class = "NSTextFieldCell"; title = "Size compressed"; ObjectID = "RDZ-A8-Ugy"; */
+"RDZ-A8-Ugy.title" = "Size compressed";
+
+/* Class = "NSTextFieldCell"; title = "Compression ratio"; ObjectID = "eDN-SV-1pt"; */
+"eDN-SV-1pt.title" = "Compression ratio";
+
+/* Class = "NSTextFieldCell"; title = "Compression method"; ObjectID = "mZs-ph-zut"; */
+"mZs-ph-zut.title" = "Compression method";
