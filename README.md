@@ -43,4 +43,4 @@ Next, your pull request will be reviewed and merged by the project maintainers.
 
 ## License and rights
 
-Please note, that all the files in this repo, including the files that you add, are covered by MIT license which allows them to be used in commercial products without any liability or payment to whoever added or modified them.
+Please note, that all the files in this repo, including the files that you add, are covered by MIT license which allows to use them in commercial products without any liability or payment to whoever added or modified them in this repo.
