@@ -6,7 +6,7 @@ This repo contains strings and other localizable content (like HTML pages with t
 
 If you want to translate to a new language, create a top-level directory indicating that locale (for instance 'fr' for French) and copy there all the files from the 'to_translate' folder. Next, translate all these files and commit/push them back to this repo. 
 
-More detailed instruction:
+More detailed instruction (using a new French translation as an example:
 
 1. Make sure you have an account on github.com and a 'git' command installed on your workstation
 2. On your workstation, call the following commands:
